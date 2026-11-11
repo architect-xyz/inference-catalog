@@ -1,0 +1,26 @@
+name: Publish the React package
+# Push a tag `react-v<version>` that matches packages/react/package.json.
+on:
+  push:
+    tags: ['react-v*']
+permissions:
+  contents: read
+  packages: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          registry-url: https://npm.pkg.github.com
+          scope: '@architect-xyz'
+      - run: npm ci
+      - run: npm run build
+      - name: The tag matches the package version
+        run: test "react-v$(node -p "require('./packages/react/package.json').version")" = "${GITHUB_REF_NAME}"
+      - run: npm publish -w packages/react
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

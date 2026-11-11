@@ -4,10 +4,19 @@
   "description": "React components for the logos of the inference catalog: model creators, providers, harnesses and models.",
   "type": "module",
   "sideEffects": false,
-  "files": ["dist", "logos.d.ts"],
+  "files": [
+    "dist",
+    "logos.d.ts"
+  ],
   "exports": {
-    ".": { "types": "./dist/index.d.ts", "import": "./dist/index.js" },
-    "./logos/*": { "types": "./logos.d.ts", "import": "./dist/logos/*.js" }
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./logos/*": {
+      "types": "./logos.d.ts",
+      "import": "./dist/logos/*.js"
+    }
   },
   "scripts": {
     "generate": "node scripts/generate.mjs",
@@ -26,5 +35,13 @@
     "tsup": "8.5.0",
     "typescript": "5.8.3",
     "vitest": "3.2.4"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/architect-xyz/inference-catalog.git",
+    "directory": "packages/react"
   }
 }
