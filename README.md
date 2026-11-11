@@ -50,6 +50,10 @@ import { CreatorLogo, ProviderLogo, HarnessLogo, ModelLogo } from '@architect-xy
 - Take one logo as a `data:` URI, with no component:
   `import src from '@architect-xyz/inference-catalog-react/logos/icons/claude'`.
 - `Logo` takes any reference: `<Logo logo="icons/claude" name="Claude" />`.
+- Plain files: the package ships the image files in `assets/`. Serve that folder
+  (for example copy it to `public/assets/catalog`), and `logoUrl('icons/claude')`
+  or `modelLogoUrl(model, creator)` gives the URL with no wait. Use it for an
+  `<img>` in a list, an SVG `<image>` or a page that a server renders.
 - Lookups: `getCreator` (accepts an alias in any letter case), `getProvider`,
   `getHarness`, `listCreators`, `listProviders`, `listHarnesses` and
   `modelLogoRef(model, creator?)`.

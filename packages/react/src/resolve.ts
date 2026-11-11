@@ -1,4 +1,4 @@
-import { CREATORS, HARNESSES, LOGO_LOADERS, PROVIDERS } from './generated/catalog'
+import { CREATORS, HARNESSES, LOGO_FILES, LOGO_LOADERS, PROVIDERS } from './generated/catalog'
 import { MODEL_LOGO_RULES } from './generated/rules'
 
 export type Creator = { id: string; name: string; aliases: string[]; logo: string | null }
@@ -72,3 +72,24 @@ export function modelLogoRef(model: string, creator?: string | null): string | n
   ]
   return candidates.find((ref): ref is string => typeof ref === 'string' && hasLogo(ref)) ?? null
 }
+
+/** Where the image files of the package are served from by default. See `logoUrl`. */
+export const DEFAULT_ASSET_BASE = '/assets/catalog'
+
+/** The path of a logo file under the assets folder: `icons/claude.jpg`. Null for an unknown reference. */
+export const logoFile = (ref: string): string | null => LOGO_FILES[ref] ?? null
+
+/**
+ * The URL of a logo file, with no wait. The files are in the package's `assets/`
+ * folder, and the app must serve that folder at `base`. Use this where a
+ * component cannot wait for a lazy import: an `<img>` in a list, an SVG
+ * `<image>` or a page that a server renders.
+ */
+export function logoUrl(ref: string | null | undefined, base: string = DEFAULT_ASSET_BASE): string | null {
+  const file = ref ? logoFile(ref) : null
+  return file ? `${base.replace(/\/$/, '')}/${file}` : null
+}
+
+/** The URL of the logo for a model name. See `modelLogoRef` and `logoUrl`. */
+export const modelLogoUrl = (model: string, creator?: string | null, base?: string): string | null =>
+  logoUrl(modelLogoRef(model, creator), base)

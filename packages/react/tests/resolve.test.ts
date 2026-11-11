@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 
 import { MODEL_LOGO_RULES } from '../src/generated/rules'
-import { getCreator, getHarness, getProvider, hasLogo, listCreators, listHarnesses, listProviders, modelLogoRef } from '../src/resolve'
+import { getCreator, getHarness, getProvider, hasLogo, listCreators, listHarnesses, listProviders, logoUrl, modelLogoRef, modelLogoUrl } from '../src/resolve'
 
 describe('catalog lookups', () => {
   it('finds a creator by alias and letter case', () => {
@@ -46,5 +46,18 @@ describe('modelLogoRef', () => {
 
   it('joins hy and hunyuan', () => {
     expect(modelLogoRef('hy-3')).toBe(modelLogoRef('hunyuan-3'))
+  })
+})
+
+describe('logoUrl', () => {
+  it('gives the file under the base, with its extension', () => {
+    expect(logoUrl('icons/claude')).toBe('/assets/catalog/icons/claude.jpg')
+    expect(logoUrl('icons/openai', '/x/')).toBe('/x/icons/openai.svg')
+    expect(logoUrl('icons/nope')).toBeNull()
+    expect(logoUrl(null)).toBeNull()
+  })
+
+  it('gives the URL for a model name', () => {
+    expect(modelLogoUrl('claude-opus-4.6', 'anthropic')).toBe(logoUrl(modelLogoRef('claude-opus-4.6', 'anthropic')))
   })
 })

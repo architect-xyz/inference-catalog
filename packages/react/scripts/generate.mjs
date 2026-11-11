@@ -33,6 +33,7 @@ writeFileSync(
 export const CREATORS: Record<string, { name: string; aliases: string[]; logo: string | null }> = ${JSON.stringify(creators)}
 export const PROVIDERS: Record<string, { name: string; type: string; logo: string | null }> = ${JSON.stringify(providers)}
 export const HARNESSES: Record<string, { name: string; logo: string | null }> = ${JSON.stringify(harnesses)}
+export const LOGO_FILES: Record<string, string> = ${JSON.stringify(Object.fromEntries(logos.map((l) => [l.ref, l.file.replace(/^logos\//, '')])))}
 export const LOGO_LOADERS: Record<string, () => Promise<{ default: string }>> = {
 ${loaders}
 }

@@ -1,11 +1,12 @@
 {
   "name": "@architect-xyz/inference-catalog-react",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React components for the logos of the inference catalog: model creators, providers, harnesses and models.",
   "type": "module",
   "sideEffects": false,
   "files": [
     "dist",
+    "assets",
     "logos.d.ts"
   ],
   "exports": {
@@ -16,11 +17,12 @@
     "./logos/*": {
       "types": "./logos.d.ts",
       "import": "./dist/logos/*.js"
-    }
+    },
+    "./assets/*": "./assets/*"
   },
   "scripts": {
     "generate": "node scripts/generate.mjs",
-    "build": "npm run generate && tsup",
+    "build": "npm run generate && tsup && node scripts/copy-assets.mjs",
     "typecheck": "npm run generate && tsc --noEmit",
     "test": "npm run generate && vitest run"
   },
