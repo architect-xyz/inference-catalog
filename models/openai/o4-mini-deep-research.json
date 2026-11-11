@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/o4-mini-deep-research",
+  "name": "o4-mini-deep-research",
+  "creator": "openai",
+  "kind": "chat",
+  "revision": "o4-mini-deep-research",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "crush",
+  "name": "Crush",
+  "description": "The terminal coding agent of Charm.",
+  "logo": "harnesses/crush"
+}

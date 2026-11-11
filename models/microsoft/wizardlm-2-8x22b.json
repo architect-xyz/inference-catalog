@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "microsoft/wizardlm-2-8x22b",
+  "name": "wizardlm-2-8x22b",
+  "creator": "microsoft",
+  "kind": "chat",
+  "revision": "wizardlm-2-8x22b",
+  "status": "APPROVED",
+  "aliases": [
+    "microsoft/wizardlm-2-8x22b"
+  ],
+  "parameters": {
+    "total": 140620634112,
+    "active": 39152031744
+  },
+  "logo": "icons/microsoft"
+}

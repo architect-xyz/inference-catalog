@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "elevenlabs/eleven_turbo_v2_5",
+  "name": "eleven_turbo_v2_5",
+  "creator": "elevenlabs",
+  "kind": "audio_speech",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/elevenlabs"
+}

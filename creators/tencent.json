@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "tencent",
+  "name": "Tencent",
+  "aliases": [],
+  "logo": "icons/hunyuan"
+}

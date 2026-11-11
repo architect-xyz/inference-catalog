@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "amazon/nova-2-lite-v1",
+  "name": "nova-2-lite-v1",
+  "creator": "amazon",
+  "kind": "chat",
+  "revision": "nova-2-lite-v1",
+  "status": "APPROVED",
+  "aliases": [
+    "nova-lite-2"
+  ],
+  "logo": "icons/nova"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-r1-distill-llama-70b-abliterated",
+  "name": "deepseek-r1-distill-llama-70b-abliterated",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-r1-distill-llama-70b-abliterated",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

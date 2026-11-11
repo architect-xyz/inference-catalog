@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/llama-3.1-nemotron-70b-instruct-hf",
+  "name": "llama-3.1-nemotron-70b-instruct-hf",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "llama-3.1-nemotron-70b-instruct-hf",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

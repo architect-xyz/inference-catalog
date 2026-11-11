@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "xcode",
+  "name": "Xcode",
+  "logo": "harnesses/xcode"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nex-agi/nex-n2.5-mini",
+  "name": "nex-n2.5-mini",
+  "creator": "nex-agi",
+  "kind": "chat",
+  "revision": "nex-n2.5-mini",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 35107181936,
+    "active": 3901560176
+  },
+  "logo": "icons/huggingface"
+}

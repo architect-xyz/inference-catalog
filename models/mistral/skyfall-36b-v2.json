@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/skyfall-36b-v2",
+  "name": "skyfall-36b-v2",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "skyfall-36b-v2",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

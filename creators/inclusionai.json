@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "inclusionai",
+  "name": "inclusionAI",
+  "aliases": [],
+  "logo": "icons/antgroup"
+}

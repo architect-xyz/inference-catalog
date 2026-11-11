@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/nemotron-3-ultra-550b-a55b",
+  "name": "nemotron-3-ultra-550b-a55b",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "nemotron-3-ultra-550b-a55b",
+  "status": "APPROVED",
+  "aliases": [
+    "nvidia/nemotron-3-ultra-550b-a55b"
+  ],
+  "parameters": {
+    "total": 560524578816,
+    "active": 55000000000
+  },
+  "logo": "icons/nvidia"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "rundiffusion/juggernaut-pro-flux",
+  "name": "juggernaut-pro-flux",
+  "creator": "rundiffusion",
+  "kind": "image_generation",
+  "revision": "juggernaut-pro-flux",
+  "base_model": "rundiffusion/juggernaut-base-flux",
+  "status": "APPROVED",
+  "aliases": [
+    "rundiffusion/juggernaut-pro-flux"
+  ],
+  "logo": "icons/rundiffusion"
+}

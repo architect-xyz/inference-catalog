@@ -1,0 +1,10 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "bytedance-seed",
+  "name": "ByteDance Seed",
+  "aliases": [
+    "bytedance",
+    "doubao"
+  ],
+  "logo": "icons/bytedance"
+}

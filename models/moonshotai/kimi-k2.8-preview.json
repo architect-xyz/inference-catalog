@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "moonshotai/kimi-k2.8-preview",
+  "name": "kimi-k2.8-preview",
+  "creator": "moonshotai",
+  "kind": "chat",
+  "revision": "2.8-preview",
+  "status": "APPROVED",
+  "aliases": [
+    "tencent/kimi-k2.8-preview"
+  ],
+  "logo": "icons/kimi"
+}

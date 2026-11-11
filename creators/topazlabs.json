@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "topazlabs",
+  "name": "Topaz Labs",
+  "aliases": [],
+  "logo": "icons/topazlabs"
+}

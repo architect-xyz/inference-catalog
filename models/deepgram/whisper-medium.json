@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepgram/whisper-medium",
+  "name": "whisper-medium",
+  "creator": "deepgram",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [
+    "whisper"
+  ],
+  "logo": "icons/openai"
+}

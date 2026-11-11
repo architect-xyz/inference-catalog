@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "minimax/minimax-m1-80k",
+  "name": "minimax-m1-80k",
+  "creator": "minimax",
+  "kind": "chat",
+  "revision": "minimax-m1-80k",
+  "status": "APPROVED",
+  "aliases": [
+    "MiniMaxAI/MiniMax-M1-80k"
+  ],
+  "parameters": {
+    "total": 456089655296,
+    "active": 48403306496
+  },
+  "logo": "icons/minimax"
+}

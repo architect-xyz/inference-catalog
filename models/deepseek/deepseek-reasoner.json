@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-reasoner",
+  "name": "deepseek-reasoner",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-reasoner",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 685355329792,
+    "active": 40959240448
+  },
+  "logo": "icons/deepseek"
+}

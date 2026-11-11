@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "inception/mercury-3",
+  "name": "mercury-3",
+  "creator": "inception",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/inception"
+}

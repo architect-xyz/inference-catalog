@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "eva-unit-01/eva-llama-3.33-70b-v0.0",
+  "name": "eva-llama-3.33-70b-v0.0",
+  "creator": "eva-unit-01",
+  "kind": "chat",
+  "revision": "eva-llama-3.33-70b-v0.0",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

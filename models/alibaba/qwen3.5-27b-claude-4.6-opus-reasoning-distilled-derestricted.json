@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.5-27b-claude-4.6-opus-reasoning-distilled-derestricted",
+  "name": "qwen3.5-27b-claude-4.6-opus-reasoning-distilled-derestricted",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3.5-27b-claude-4.6-opus-reasoning-distilled-derestricted",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

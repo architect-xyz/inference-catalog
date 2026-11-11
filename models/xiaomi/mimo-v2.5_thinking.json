@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "xiaomi/mimo-v2.5:thinking",
+  "name": "mimo-v2.5:thinking",
+  "creator": "xiaomi",
+  "kind": "chat",
+  "revision": "mimo-v2.5:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 310756322688,
+    "active": 11182353792
+  },
+  "logo": "icons/xiaomimimo"
+}

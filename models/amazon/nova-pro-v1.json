@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "amazon/nova-pro-v1",
+  "name": "nova-pro-v1",
+  "creator": "amazon",
+  "kind": "chat",
+  "revision": "nova-pro-v1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/nova"
+}

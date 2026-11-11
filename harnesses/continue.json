@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "continue",
+  "name": "Continue",
+  "logo": "harnesses/continue"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/magidonia-24b-v4.3",
+  "name": "magidonia-24b-v4.3",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "magidonia-24b-v4.3",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

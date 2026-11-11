@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "perplexity/sonar-pro",
+  "name": "sonar-pro",
+  "creator": "perplexity",
+  "kind": "chat",
+  "revision": "sonar-pro",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/perplexity"
+}

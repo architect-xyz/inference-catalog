@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nousresearch/hermes-3-llama-3.1-405b",
+  "name": "hermes-3-llama-3.1-405b",
+  "creator": "nousresearch",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/nousresearch"
+}

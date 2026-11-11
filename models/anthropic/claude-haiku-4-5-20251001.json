@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "anthropic/claude-haiku-4-5-20251001",
+  "name": "claude-haiku-4-5-20251001",
+  "creator": "anthropic",
+  "kind": "chat",
+  "revision": "claude-haiku-4.5-20251001",
+  "status": "APPROVED",
+  "aliases": [
+    "claude-haiku-4.5-20251001"
+  ],
+  "logo": "icons/claude"
+}

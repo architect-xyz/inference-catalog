@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/wan-2-5",
+  "name": "wan-2-5",
+  "creator": "alibaba",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

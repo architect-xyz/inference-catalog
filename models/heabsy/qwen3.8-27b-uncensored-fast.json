@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "heabsy/qwen3.8-27b-uncensored-fast",
+  "name": "qwen3.8-27b-uncensored-fast",
+  "creator": "heabsy",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

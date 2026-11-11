@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nanogpt/nemotron-3.5-embed-1b-bf16",
+  "name": "nemotron-3.5-embed-1b-bf16",
+  "creator": "nanogpt",
+  "kind": "embedding",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/nvidia"
+}

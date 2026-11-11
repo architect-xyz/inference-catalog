@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/nemotron-3.5-lightning:thinking",
+  "name": "nemotron-3.5-lightning:thinking",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "nemotron-3.5-lightning:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 31577937344,
+    "active": 3000000000
+  },
+  "logo": "icons/nvidia"
+}

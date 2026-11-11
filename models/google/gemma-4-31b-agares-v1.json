@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-agares-v1",
+  "name": "gemma-4-31b-agares-v1",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-agares-v1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

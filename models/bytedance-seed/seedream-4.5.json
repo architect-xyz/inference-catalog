@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "bytedance-seed/seedream-4.5",
+  "name": "seedream-4.5",
+  "creator": "bytedance-seed",
+  "kind": "image_generation",
+  "revision": "seedream-4.5",
+  "status": "APPROVED",
+  "aliases": [
+    "bytedance/seedream-4.5",
+    "seedream-4-5"
+  ],
+  "logo": "icons/bytedance"
+}

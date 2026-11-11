@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "pruna/p-video",
+  "name": "p-video",
+  "creator": "pruna",
+  "kind": "video_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/prunaai"
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "openclaw",
+  "name": "OpenClaw",
+  "description": "A personal agent with a cap on each model request.",
+  "logo": "harnesses/openclaw"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-4.7-flash:thinking",
+  "name": "glm-4.7-flash:thinking",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-4.7-flash:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 31221488576,
+    "active": 4608629696
+  },
+  "logo": "icons/zhipu"
+}

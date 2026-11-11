@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/diffusiongemma",
+  "name": "diffusiongemma",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "diffusiongemma",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

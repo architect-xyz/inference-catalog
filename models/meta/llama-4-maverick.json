@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/llama-4-maverick",
+  "name": "llama-4-maverick",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "llama-4-maverick",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

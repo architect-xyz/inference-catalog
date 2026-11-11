@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/nemotron-3.5-content-safety",
+  "name": "nemotron-3.5-content-safety",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "nemotron-3.5-content-safety",
+  "status": "APPROVED",
+  "aliases": [
+    "nvidia/nemotron-3.5-content-safety"
+  ],
+  "parameters": {
+    "total": 4300079472,
+    "active": 4300079472
+  },
+  "logo": "icons/nvidia"
+}

@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "meituan",
+  "name": "Meituan",
+  "aliases": [
+    "longcat"
+  ],
+  "logo": "icons/longcat"
+}

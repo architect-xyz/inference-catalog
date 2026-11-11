@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "pi",
+  "name": "Pi",
+  "description": "A terminal coding agent.",
+  "logo": "harnesses/pi-coding-agent"
+}

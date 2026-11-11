@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "pixverse/pixverse-c1",
+  "name": "pixverse-c1",
+  "creator": "pixverse",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/pixverse"
+}

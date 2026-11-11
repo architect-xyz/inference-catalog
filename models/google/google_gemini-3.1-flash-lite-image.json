@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/google/gemini-3.1-flash-lite-image",
+  "name": "google/gemini-3.1-flash-lite-image",
+  "creator": "google",
+  "kind": "image_generation",
+  "revision": "gemini-3.1-flash-lite-image",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

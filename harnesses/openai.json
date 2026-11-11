@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "openai",
+  "name": "OpenAI API",
+  "logo": "harnesses/openai"
+}

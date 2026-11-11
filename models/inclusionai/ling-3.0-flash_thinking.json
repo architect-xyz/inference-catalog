@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "inclusionai/ling-3.0-flash:thinking",
+  "name": "ling-3.0-flash:thinking",
+  "creator": "inclusionai",
+  "kind": "chat",
+  "revision": "ling-3.0-flash:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 127486405600,
+    "active": 5605174240
+  },
+  "logo": "icons/antgroup"
+}

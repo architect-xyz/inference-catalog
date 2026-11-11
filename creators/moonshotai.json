@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "moonshotai",
+  "name": "Moonshot",
+  "aliases": [
+    "moonshot"
+  ],
+  "logo": "icons/kimi"
+}

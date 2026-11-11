@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "lobehub",
+  "name": "LobeHub",
+  "description": "A workspace for teams of AI agents.",
+  "logo": "harnesses/lobehub"
+}

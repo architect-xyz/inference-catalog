@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "heabsy/cyberheabsy",
+  "name": "cyberheabsy",
+  "creator": "heabsy",
+  "kind": "chat",
+  "revision": "cyberheabsy",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

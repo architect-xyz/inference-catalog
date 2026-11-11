@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-assguard",
+  "name": "gemma-4-31b-assguard",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-assguard",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

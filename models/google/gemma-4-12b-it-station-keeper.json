@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-12b-it-station-keeper",
+  "name": "gemma-4-12b-it-station-keeper",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-12b-it-station-keeper",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

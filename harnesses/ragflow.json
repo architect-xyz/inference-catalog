@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "ragflow",
+  "name": "RAGFlow",
+  "description": "A document search engine. Buy its chat answers and embeddings.",
+  "logo": "harnesses/ragflow"
+}

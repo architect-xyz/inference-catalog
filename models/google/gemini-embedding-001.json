@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemini-embedding-001",
+  "name": "gemini-embedding-001",
+  "creator": "google",
+  "kind": "embedding",
+  "revision": "gemini-embedding-001",
+  "status": "APPROVED",
+  "aliases": [
+    "gemini-embedding"
+  ],
+  "logo": "icons/gemini"
+}

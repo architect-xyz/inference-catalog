@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "minimax/MiniMax-M3",
+  "name": "MiniMax-M3",
+  "creator": "minimax",
+  "kind": "chat",
+  "revision": "minimax-m3",
+  "status": "APPROVED",
+  "aliases": [
+    "minimax-m3",
+    "minimax/minimax-m3"
+  ],
+  "logo": "icons/minimax"
+}

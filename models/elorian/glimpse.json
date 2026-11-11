@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "elorian/glimpse",
+  "name": "glimpse",
+  "creator": "elorian",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

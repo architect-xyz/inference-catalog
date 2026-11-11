@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openmoss/moss-image-turbo",
+  "name": "moss-image-turbo",
+  "creator": "openmoss",
+  "kind": "image_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

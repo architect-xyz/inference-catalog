@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/veo-3.0-generate-001",
+  "name": "veo-3.0-generate-001",
+  "creator": "google",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "zai",
+  "name": "Z.ai",
+  "description": "GLM models through the Z.ai API",
+  "type": "model-maker",
+  "logo": "providers/zai"
+}

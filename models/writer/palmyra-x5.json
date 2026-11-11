@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "writer/palmyra-x5",
+  "name": "palmyra-x5",
+  "creator": "writer",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

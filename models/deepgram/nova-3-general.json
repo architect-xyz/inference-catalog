@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepgram/nova-3-general",
+  "name": "nova-3-general",
+  "creator": "deepgram",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/nova"
+}

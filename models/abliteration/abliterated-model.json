@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "abliteration/abliterated-model",
+  "name": "abliterated-model",
+  "creator": "abliteration",
+  "kind": "chat",
+  "revision": "abliterated-model",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

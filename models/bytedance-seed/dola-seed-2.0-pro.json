@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "bytedance-seed/dola-seed-2.0-pro",
+  "name": "dola-seed-2.0-pro",
+  "creator": "bytedance-seed",
+  "kind": "chat",
+  "revision": "dola-seed-2.0-pro",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/bytedance"
+}

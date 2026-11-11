@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "copilot-cli",
+  "name": "GitHub Copilot CLI",
+  "description": "GitHub's terminal agent, with your own provider.",
+  "logo": "harnesses/github-copilot"
+}

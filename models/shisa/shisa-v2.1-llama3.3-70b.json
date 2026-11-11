@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "shisa/shisa-v2.1-llama3.3-70b",
+  "name": "shisa-v2.1-llama3.3-70b",
+  "creator": "shisa",
+  "kind": "chat",
+  "revision": "shisa-v2.1-llama3.3-70b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

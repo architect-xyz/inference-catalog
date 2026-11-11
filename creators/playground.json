@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "playground",
+  "name": "Playground",
+  "aliases": [],
+  "logo": "icons/playground"
+}

@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "superset",
+  "name": "Superset",
+  "logo": "harnesses/superset"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "kling/kling-v3-4k",
+  "name": "kling-v3-4k",
+  "creator": "kling",
+  "kind": "video_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/kling"
+}

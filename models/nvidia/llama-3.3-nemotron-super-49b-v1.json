@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/llama-3.3-nemotron-super-49b-v1",
+  "name": "llama-3.3-nemotron-super-49b-v1",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "llama-3.3-nemotron-super-49b-v1",
+  "status": "APPROVED",
+  "aliases": [
+    "nvidia/Llama-3.3-Nemotron-Super-49B-v1"
+  ],
+  "logo": "icons/llama"
+}

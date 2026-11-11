@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "moonshotai/kimi-k2.7-code-highspeed",
+  "name": "kimi-k2.7-code-highspeed",
+  "creator": "moonshotai",
+  "kind": "chat",
+  "revision": "kimi-k2-7-code-highspeed",
+  "status": "APPROVED",
+  "aliases": [
+    "kimi-k2-7-code-highspeed",
+    "moonshotai/kimi-k2.7-code-highspeed"
+  ],
+  "parameters": {
+    "total": 1026879376368,
+    "active": 33332644848
+  },
+  "logo": "icons/kimi"
+}

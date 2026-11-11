@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "stabilityai/sd3",
+  "name": "sd3",
+  "creator": "stabilityai",
+  "kind": "image_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/stability"
+}

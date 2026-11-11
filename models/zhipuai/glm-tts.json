@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-tts",
+  "name": "glm-tts",
+  "creator": "zhipuai",
+  "kind": "audio_speech",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/zhipu"
+}

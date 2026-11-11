@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "kling/kling-3-0-turbo",
+  "name": "kling-3-0-turbo",
+  "creator": "kling",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/kling"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/gpt-oss-safeguard-20b",
+  "name": "gpt-oss-safeguard-20b",
+  "creator": "openai",
+  "kind": "chat",
+  "revision": "gpt-oss-safeguard-20b",
+  "status": "APPROVED",
+  "aliases": [
+    "openai/gpt-oss-safeguard-20b"
+  ],
+  "parameters": {
+    "total": 21511953984,
+    "active": 4790443584
+  },
+  "logo": "icons/openai"
+}

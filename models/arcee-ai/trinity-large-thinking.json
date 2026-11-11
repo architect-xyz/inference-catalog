@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "arcee-ai/trinity-large-thinking",
+  "name": "trinity-large-thinking",
+  "creator": "arcee-ai",
+  "kind": "chat",
+  "revision": "trinity-large-thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/arcee"
+}

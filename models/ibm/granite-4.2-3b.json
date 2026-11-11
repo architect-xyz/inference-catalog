@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "ibm/granite-4.2-3b",
+  "name": "granite-4.2-3b",
+  "creator": "ibm",
+  "kind": "chat",
+  "revision": "granite-4.2-3b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/ibm"
+}

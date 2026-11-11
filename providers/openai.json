@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "openai",
+  "name": "OpenAI",
+  "description": "GPT models through your OpenAI API account",
+  "type": "model-maker",
+  "logo": "providers/openai"
+}

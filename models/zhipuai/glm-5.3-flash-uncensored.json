@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-5.3-flash-uncensored",
+  "name": "glm-5.3-flash-uncensored",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-5.3-flash-uncensored",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/zhipu"
+}

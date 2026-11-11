@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "portkey",
+  "name": "Portkey",
+  "logo": "harnesses/portkey"
+}

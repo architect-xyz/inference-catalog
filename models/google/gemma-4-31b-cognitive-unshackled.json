@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-cognitive-unshackled",
+  "name": "gemma-4-31b-cognitive-unshackled",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-cognitive-unshackled",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

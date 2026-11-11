@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "rekaai/reka-edge",
+  "name": "reka-edge",
+  "creator": "rekaai",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 7128509568,
+    "active": 7128509568
+  },
+  "logo": "icons/huggingface"
+}

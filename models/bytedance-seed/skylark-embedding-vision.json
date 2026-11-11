@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "bytedance-seed/skylark-embedding-vision",
+  "name": "skylark-embedding-vision",
+  "creator": "bytedance-seed",
+  "kind": "embedding",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/bytedance"
+}

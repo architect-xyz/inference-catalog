@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-4.5-air:thinking",
+  "name": "glm-4.5-air:thinking",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-4.5-air:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 110468824832,
+    "active": 14964522752
+  },
+  "logo": "icons/zhipu"
+}

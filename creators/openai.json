@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "openai",
+  "name": "OpenAI",
+  "aliases": [],
+  "logo": "icons/openai"
+}

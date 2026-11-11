@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "aion-labs/aion-rp-llama-3.1-8b",
+  "name": "aion-rp-llama-3.1-8b",
+  "creator": "aion-labs",
+  "kind": "chat",
+  "revision": "aion-rp-llama-3.1-8b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/aionlabs"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-r1-distill-llama-8b",
+  "name": "deepseek-r1-distill-llama-8b",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-r1-distill-llama-8b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

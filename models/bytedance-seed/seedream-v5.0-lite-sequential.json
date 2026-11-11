@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "bytedance-seed/seedream-v5.0-lite-sequential",
+  "name": "seedream-v5.0-lite-sequential",
+  "creator": "bytedance-seed",
+  "kind": "image_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/bytedance"
+}

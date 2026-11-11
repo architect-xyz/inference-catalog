@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-non-thinking-v3.2-exp",
+  "name": "deepseek-non-thinking-v3.2-exp",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

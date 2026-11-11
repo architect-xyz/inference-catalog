@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/text-embedding-v3",
+  "name": "text-embedding-v3",
+  "creator": "alibaba",
+  "kind": "embedding",
+  "status": "APPROVED",
+  "aliases": [
+    "alibaba/text-embedding-v3"
+  ],
+  "logo": "icons/qwen"
+}

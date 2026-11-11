@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "upstage/solar-pro4:thinking",
+  "name": "solar-pro4:thinking",
+  "creator": "upstage",
+  "kind": "chat",
+  "revision": "solar-pro4:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/upstage"
+}

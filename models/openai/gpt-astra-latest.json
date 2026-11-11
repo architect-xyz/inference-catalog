@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/gpt-astra-latest",
+  "name": "gpt-astra-latest",
+  "creator": "openai",
+  "kind": "chat",
+  "revision": "gpt-astra-latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

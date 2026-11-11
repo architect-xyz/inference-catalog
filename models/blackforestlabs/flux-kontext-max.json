@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "blackforestlabs/flux-kontext-max",
+  "name": "flux-kontext-max",
+  "creator": "blackforestlabs",
+  "kind": "image_generation",
+  "revision": "flux-kontext-max",
+  "status": "APPROVED",
+  "aliases": [
+    "blackforestlabs/flux-kontext-max"
+  ],
+  "logo": "icons/bfl"
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "stabilityai/stable-image-core",
+  "name": "stable-image-core",
+  "creator": "stabilityai",
+  "kind": "image_generation",
+  "revision": "stable-image-core",
+  "status": "APPROVED",
+  "aliases": [
+    "stabilityai/stable-image-core"
+  ],
+  "logo": "icons/stability"
+}

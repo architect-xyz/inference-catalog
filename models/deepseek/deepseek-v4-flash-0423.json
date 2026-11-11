@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-v4-flash-0423",
+  "name": "deepseek-v4-flash-0423",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-v4-flash-0423",
+  "status": "APPROVED",
+  "aliases": [
+    "deepseek/deepseek-v4-flash-0423"
+  ],
+  "parameters": {
+    "total": 290944616402,
+    "active": 14120552402
+  },
+  "logo": "icons/deepseek"
+}

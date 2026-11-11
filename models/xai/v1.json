@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "xai/v1",
+  "name": "v1",
+  "creator": "xai",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/grok"
+}

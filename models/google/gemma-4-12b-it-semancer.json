@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-12b-it-semancer",
+  "name": "gemma-4-12b-it-semancer",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-12b-it-semancer",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

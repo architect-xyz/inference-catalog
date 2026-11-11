@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "tiiuae",
+  "name": "TII",
+  "aliases": [],
+  "logo": "icons/tii"
+}

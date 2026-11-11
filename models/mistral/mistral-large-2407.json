@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/mistral-large-2407",
+  "name": "mistral-large-2407",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 122610069504,
+    "active": 122610069504
+  },
+  "logo": "icons/mistral"
+}

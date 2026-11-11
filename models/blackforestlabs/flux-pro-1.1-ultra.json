@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "blackforestlabs/flux-pro-1.1-ultra",
+  "name": "flux-pro-1.1-ultra",
+  "creator": "blackforestlabs",
+  "kind": "image_generation",
+  "revision": "flux-pro-1.1-ultra",
+  "status": "APPROVED",
+  "aliases": [
+    "blackforestlabs/flux-pro-1.1-ultra"
+  ],
+  "logo": "icons/bfl"
+}

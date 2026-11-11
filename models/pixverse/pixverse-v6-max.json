@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "pixverse/pixverse-v6-max",
+  "name": "pixverse-v6-max",
+  "creator": "pixverse",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/pixverse"
+}

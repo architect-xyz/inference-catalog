@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "cursor",
+  "name": "Cursor",
+  "description": "The editor, using its own model settings.",
+  "logo": "harnesses/cursor"
+}

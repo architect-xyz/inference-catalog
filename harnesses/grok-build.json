@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "grok-build",
+  "name": "Grok Build",
+  "description": "xAI's terminal coding agent.",
+  "logo": "harnesses/grok-build"
+}

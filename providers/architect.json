@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "architect",
+  "name": "Architect",
+  "description": "The Architect exchange.",
+  "type": "exchange",
+  "logo": "providers/architect"
+}

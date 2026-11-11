@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "prism-ml",
+  "name": "Prism ML",
+  "aliases": [],
+  "logo": "icons/prismml"
+}

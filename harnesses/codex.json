@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "codex",
+  "name": "Codex",
+  "description": "OpenAI's terminal agent.",
+  "logo": "harnesses/codex"
+}

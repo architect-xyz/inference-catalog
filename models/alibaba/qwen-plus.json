@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen-plus",
+  "name": "qwen-plus",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen-plus",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

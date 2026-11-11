@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "aleph-alpha/kolibri-1",
+  "name": "kolibri-1",
+  "creator": "aleph-alpha",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 78103074560,
+    "active": 3785250560
+  },
+  "logo": "icons/alephalpha"
+}

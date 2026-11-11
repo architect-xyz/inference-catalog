@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "stabilityai/stable-diffusion-3.5-large",
+  "name": "stable-diffusion-3.5-large",
+  "creator": "stabilityai",
+  "kind": "image_generation",
+  "revision": "stable-diffusion-3.5-large",
+  "status": "APPROVED",
+  "aliases": [
+    "sd3.5-large",
+    "stabilityai/stable-diffusion-3.5-large",
+    "stable-diffusion-v35-large"
+  ],
+  "logo": "icons/stability"
+}

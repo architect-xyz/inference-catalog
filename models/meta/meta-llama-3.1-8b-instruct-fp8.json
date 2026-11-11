@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/meta-llama-3.1-8b-instruct-fp8",
+  "name": "meta-llama-3.1-8b-instruct-fp8",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "meta-llama-3.1-8b-instruct-fp8",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

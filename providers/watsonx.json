@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "watsonx",
+  "name": "IBM watsonx",
+  "description": "Granite and other models from your watsonx project",
+  "type": "cloud-platform",
+  "logo": "providers/ibm"
+}

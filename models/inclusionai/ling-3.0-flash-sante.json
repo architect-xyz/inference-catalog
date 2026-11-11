@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "inclusionai/ling-3.0-flash-sante",
+  "name": "ling-3.0-flash-sante",
+  "creator": "inclusionai",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/antgroup"
+}

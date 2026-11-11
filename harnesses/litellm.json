@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "litellm",
+  "name": "LiteLLM",
+  "description": "Through its OpenAI-compatible route.",
+  "logo": "harnesses/litellm"
+}

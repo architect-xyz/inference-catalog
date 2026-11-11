@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "perceptron/perceptron-mk1",
+  "name": "perceptron-mk1",
+  "creator": "perceptron",
+  "kind": "chat",
+  "revision": "perceptron-mk1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

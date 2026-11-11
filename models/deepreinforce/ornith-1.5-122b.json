@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepreinforce/ornith-1.5-122b",
+  "name": "ornith-1.5-122b",
+  "creator": "deepreinforce",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/wizper",
+  "name": "wizper",
+  "creator": "openai",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

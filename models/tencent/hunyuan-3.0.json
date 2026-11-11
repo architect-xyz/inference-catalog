@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "tencent/hunyuan-3.0",
+  "name": "hunyuan-3.0",
+  "creator": "tencent",
+  "kind": "chat",
+  "revision": "hunyuan-3.0",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/hunyuan"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/mistral-small-24b-instruct-2501",
+  "name": "mistral-small-24b-instruct-2501",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "mistral-small-24b-instruct-2501",
+  "status": "APPROVED",
+  "aliases": [
+    "mistralai/mistral-small-24b-instruct-2501"
+  ],
+  "parameters": {
+    "total": 23572403200,
+    "active": 23572403200
+  },
+  "logo": "icons/mistral"
+}

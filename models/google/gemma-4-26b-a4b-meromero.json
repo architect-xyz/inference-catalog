@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-26b-a4b-meromero",
+  "name": "gemma-4-26b-a4b-meromero",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-26b-a4b-meromero",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

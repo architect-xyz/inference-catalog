@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-reasoner-v3.1-terminus",
+  "name": "deepseek-reasoner-v3.1-terminus",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

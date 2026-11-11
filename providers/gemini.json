@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "gemini",
+  "name": "Google Gemini",
+  "description": "Gemini through a Google AI Studio API key",
+  "type": "model-maker",
+  "logo": "providers/gemini"
+}

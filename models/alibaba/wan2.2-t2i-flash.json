@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/wan2.2-t2i-flash",
+  "name": "wan2.2-t2i-flash",
+  "creator": "alibaba",
+  "kind": "image_generation",
+  "revision": "wan2.2-t2i-flash",
+  "status": "APPROVED",
+  "aliases": [
+    "alibaba/wan2.2-t2i-flash"
+  ],
+  "logo": "icons/qwen"
+}

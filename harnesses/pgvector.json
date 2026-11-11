@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "pgvector",
+  "name": "pgvector",
+  "description": "Buy vectors, then store and search them in Postgres.",
+  "logo": "harnesses/pgvector"
+}

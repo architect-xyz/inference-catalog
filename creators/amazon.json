@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "amazon",
+  "name": "Amazon",
+  "aliases": [],
+  "logo": "icons/nova"
+}

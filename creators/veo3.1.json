@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "veo3.1",
+  "name": "Veo3.1",
+  "aliases": [],
+  "logo": null
+}

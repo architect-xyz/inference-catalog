@@ -1,0 +1,2382 @@
+{
+  "icons/ace": {
+    "file": "logos/icons/ace.jpg",
+    "type": "image/jpeg",
+    "bytes": 2986
+  },
+  "icons/adobe": {
+    "file": "logos/icons/adobe.jpg",
+    "type": "image/jpeg",
+    "bytes": 2846
+  },
+  "icons/adobefirefly": {
+    "file": "logos/icons/adobefirefly.jpg",
+    "type": "image/jpeg",
+    "bytes": 3592
+  },
+  "icons/agentvoice": {
+    "file": "logos/icons/agentvoice.jpg",
+    "type": "image/jpeg",
+    "bytes": 2362
+  },
+  "icons/agnesai": {
+    "file": "logos/icons/agnesai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2753
+  },
+  "icons/agui": {
+    "file": "logos/icons/agui.jpg",
+    "type": "image/jpeg",
+    "bytes": 2746
+  },
+  "icons/ai2": {
+    "file": "logos/icons/ai2.jpg",
+    "type": "image/jpeg",
+    "bytes": 2360
+  },
+  "icons/ai21": {
+    "file": "logos/icons/ai21.jpg",
+    "type": "image/jpeg",
+    "bytes": 2098
+  },
+  "icons/ai302": {
+    "file": "logos/icons/ai302.jpg",
+    "type": "image/jpeg",
+    "bytes": 3272
+  },
+  "icons/ai360": {
+    "file": "logos/icons/ai360.jpg",
+    "type": "image/jpeg",
+    "bytes": 3745
+  },
+  "icons/aihubmix": {
+    "file": "logos/icons/aihubmix.jpg",
+    "type": "image/jpeg",
+    "bytes": 3350
+  },
+  "icons/aimass": {
+    "file": "logos/icons/aimass.jpg",
+    "type": "image/jpeg",
+    "bytes": 2522
+  },
+  "icons/aionlabs": {
+    "file": "logos/icons/aionlabs.jpg",
+    "type": "image/jpeg",
+    "bytes": 3011
+  },
+  "icons/airjelly": {
+    "file": "logos/icons/airjelly.jpg",
+    "type": "image/jpeg",
+    "bytes": 3081
+  },
+  "icons/aistudio": {
+    "file": "logos/icons/aistudio.jpg",
+    "type": "image/jpeg",
+    "bytes": 2396
+  },
+  "icons/akashchat": {
+    "file": "logos/icons/akashchat.jpg",
+    "type": "image/jpeg",
+    "bytes": 2687
+  },
+  "icons/alephalpha": {
+    "file": "logos/icons/alephalpha.jpg",
+    "type": "image/jpeg",
+    "bytes": 3279
+  },
+  "icons/alibaba": {
+    "file": "logos/icons/alibaba.jpg",
+    "type": "image/jpeg",
+    "bytes": 2130
+  },
+  "icons/alibabacloud": {
+    "file": "logos/icons/alibabacloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2663
+  },
+  "icons/amd": {
+    "file": "logos/icons/amd.jpg",
+    "type": "image/jpeg",
+    "bytes": 1464
+  },
+  "icons/amp": {
+    "file": "logos/icons/amp.jpg",
+    "type": "image/jpeg",
+    "bytes": 3102
+  },
+  "icons/anspire": {
+    "file": "logos/icons/anspire.jpg",
+    "type": "image/jpeg",
+    "bytes": 2610
+  },
+  "icons/antgroup": {
+    "file": "logos/icons/antgroup.jpg",
+    "type": "image/jpeg",
+    "bytes": 2763
+  },
+  "icons/anthropic": {
+    "file": "logos/icons/anthropic.jpg",
+    "type": "image/jpeg",
+    "bytes": 3558
+  },
+  "icons/antigravity": {
+    "file": "logos/icons/antigravity.jpg",
+    "type": "image/jpeg",
+    "bytes": 2217
+  },
+  "icons/anyscale": {
+    "file": "logos/icons/anyscale.jpg",
+    "type": "image/jpeg",
+    "bytes": 3104
+  },
+  "icons/apertis": {
+    "file": "logos/icons/apertis.jpg",
+    "type": "image/jpeg",
+    "bytes": 2388
+  },
+  "icons/apple": {
+    "file": "logos/icons/apple.jpg",
+    "type": "image/jpeg",
+    "bytes": 2030
+  },
+  "icons/arcee": {
+    "file": "logos/icons/arcee.jpg",
+    "type": "image/jpeg",
+    "bytes": 2660
+  },
+  "icons/askverdict": {
+    "file": "logos/icons/askverdict.jpg",
+    "type": "image/jpeg",
+    "bytes": 2094
+  },
+  "icons/assemblyai": {
+    "file": "logos/icons/assemblyai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2562
+  },
+  "icons/atlascloud": {
+    "file": "logos/icons/atlascloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2391
+  },
+  "icons/automatic": {
+    "file": "logos/icons/automatic.jpg",
+    "type": "image/jpeg",
+    "bytes": 2355
+  },
+  "icons/aws": {
+    "file": "logos/icons/aws.jpg",
+    "type": "image/jpeg",
+    "bytes": 2628
+  },
+  "icons/aya": {
+    "file": "logos/icons/aya.jpg",
+    "type": "image/jpeg",
+    "bytes": 2575
+  },
+  "icons/azure-openai": {
+    "file": "logos/icons/azure-openai.png",
+    "type": "image/png",
+    "bytes": 4234
+  },
+  "icons/azure": {
+    "file": "logos/icons/azure.jpg",
+    "type": "image/jpeg",
+    "bytes": 2687
+  },
+  "icons/azureai": {
+    "file": "logos/icons/azureai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2202
+  },
+  "icons/baai": {
+    "file": "logos/icons/baai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3322
+  },
+  "icons/baichuan": {
+    "file": "logos/icons/baichuan.jpg",
+    "type": "image/jpeg",
+    "bytes": 2419
+  },
+  "icons/baidu": {
+    "file": "logos/icons/baidu.jpg",
+    "type": "image/jpeg",
+    "bytes": 3281
+  },
+  "icons/baiducloud": {
+    "file": "logos/icons/baiducloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2726
+  },
+  "icons/bailian": {
+    "file": "logos/icons/bailian.jpg",
+    "type": "image/jpeg",
+    "bytes": 2722
+  },
+  "icons/baseten": {
+    "file": "logos/icons/baseten.jpg",
+    "type": "image/jpeg",
+    "bytes": 1837
+  },
+  "icons/bedrock": {
+    "file": "logos/icons/bedrock.jpg",
+    "type": "image/jpeg",
+    "bytes": 3071
+  },
+  "icons/bfl": {
+    "file": "logos/icons/bfl.jpg",
+    "type": "image/jpeg",
+    "bytes": 2300
+  },
+  "icons/bilibili": {
+    "file": "logos/icons/bilibili.jpg",
+    "type": "image/jpeg",
+    "bytes": 2496
+  },
+  "icons/bilibiliindex": {
+    "file": "logos/icons/bilibiliindex.jpg",
+    "type": "image/jpeg",
+    "bytes": 3006
+  },
+  "icons/bing": {
+    "file": "logos/icons/bing.jpg",
+    "type": "image/jpeg",
+    "bytes": 2354
+  },
+  "icons/bocha": {
+    "file": "logos/icons/bocha.jpg",
+    "type": "image/jpeg",
+    "bytes": 2732
+  },
+  "icons/brave": {
+    "file": "logos/icons/brave.jpg",
+    "type": "image/jpeg",
+    "bytes": 3487
+  },
+  "icons/briaai": {
+    "file": "logos/icons/briaai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2950
+  },
+  "icons/browserless": {
+    "file": "logos/icons/browserless.jpg",
+    "type": "image/jpeg",
+    "bytes": 2364
+  },
+  "icons/burncloud": {
+    "file": "logos/icons/burncloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2660
+  },
+  "icons/bytedance": {
+    "file": "logos/icons/bytedance.jpg",
+    "type": "image/jpeg",
+    "bytes": 2122
+  },
+  "icons/capcut": {
+    "file": "logos/icons/capcut.jpg",
+    "type": "image/jpeg",
+    "bytes": 2690
+  },
+  "icons/celeris": {
+    "file": "logos/icons/celeris.jpg",
+    "type": "image/jpeg",
+    "bytes": 6540
+  },
+  "icons/celestoai": {
+    "file": "logos/icons/celestoai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2697
+  },
+  "icons/centml": {
+    "file": "logos/icons/centml.jpg",
+    "type": "image/jpeg",
+    "bytes": 2932
+  },
+  "icons/cerebras": {
+    "file": "logos/icons/cerebras.jpg",
+    "type": "image/jpeg",
+    "bytes": 2715
+  },
+  "icons/chatglm": {
+    "file": "logos/icons/chatglm.jpg",
+    "type": "image/jpeg",
+    "bytes": 3211
+  },
+  "icons/cherrystudio": {
+    "file": "logos/icons/cherrystudio.jpg",
+    "type": "image/jpeg",
+    "bytes": 4420
+  },
+  "icons/chutes": {
+    "file": "logos/icons/chutes.jpg",
+    "type": "image/jpeg",
+    "bytes": 2386
+  },
+  "icons/civitai-text": {
+    "file": "logos/icons/civitai-text.jpg",
+    "type": "image/jpeg",
+    "bytes": 1567
+  },
+  "icons/civitai": {
+    "file": "logos/icons/civitai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3222
+  },
+  "icons/clarifai": {
+    "file": "logos/icons/clarifai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3013
+  },
+  "icons/claude": {
+    "file": "logos/icons/claude.jpg",
+    "type": "image/jpeg",
+    "bytes": 3241
+  },
+  "icons/claudecode": {
+    "file": "logos/icons/claudecode.jpg",
+    "type": "image/jpeg",
+    "bytes": 3013
+  },
+  "icons/cline": {
+    "file": "logos/icons/cline.jpg",
+    "type": "image/jpeg",
+    "bytes": 3834
+  },
+  "icons/clipdrop": {
+    "file": "logos/icons/clipdrop.jpg",
+    "type": "image/jpeg",
+    "bytes": 2757
+  },
+  "icons/cloudferro": {
+    "file": "logos/icons/cloudferro.jpg",
+    "type": "image/jpeg",
+    "bytes": 2519
+  },
+  "icons/cloudflare": {
+    "file": "logos/icons/cloudflare.jpg",
+    "type": "image/jpeg",
+    "bytes": 1792
+  },
+  "icons/codebuddy": {
+    "file": "logos/icons/codebuddy.jpg",
+    "type": "image/jpeg",
+    "bytes": 2837
+  },
+  "icons/codeflicker": {
+    "file": "logos/icons/codeflicker.jpg",
+    "type": "image/jpeg",
+    "bytes": 2011
+  },
+  "icons/codegeex": {
+    "file": "logos/icons/codegeex.jpg",
+    "type": "image/jpeg",
+    "bytes": 2669
+  },
+  "icons/codex": {
+    "file": "logos/icons/codex.jpg",
+    "type": "image/jpeg",
+    "bytes": 3782
+  },
+  "icons/cogvideo": {
+    "file": "logos/icons/cogvideo.jpg",
+    "type": "image/jpeg",
+    "bytes": 3419
+  },
+  "icons/cogview": {
+    "file": "logos/icons/cogview.jpg",
+    "type": "image/jpeg",
+    "bytes": 2991
+  },
+  "icons/cohere": {
+    "file": "logos/icons/cohere.jpg",
+    "type": "image/jpeg",
+    "bytes": 2367
+  },
+  "icons/colab": {
+    "file": "logos/icons/colab.jpg",
+    "type": "image/jpeg",
+    "bytes": 2685
+  },
+  "icons/cometapi": {
+    "file": "logos/icons/cometapi.jpg",
+    "type": "image/jpeg",
+    "bytes": 3061
+  },
+  "icons/comfyui": {
+    "file": "logos/icons/comfyui.svg",
+    "type": "image/svg+xml",
+    "bytes": 1183
+  },
+  "icons/commanda": {
+    "file": "logos/icons/commanda.jpg",
+    "type": "image/jpeg",
+    "bytes": 2367
+  },
+  "icons/copilot": {
+    "file": "logos/icons/copilot.jpg",
+    "type": "image/jpeg",
+    "bytes": 2599
+  },
+  "icons/copilotkit": {
+    "file": "logos/icons/copilotkit.jpg",
+    "type": "image/jpeg",
+    "bytes": 2616
+  },
+  "icons/coqui": {
+    "file": "logos/icons/coqui.jpg",
+    "type": "image/jpeg",
+    "bytes": 3118
+  },
+  "icons/coze": {
+    "file": "logos/icons/coze.jpg",
+    "type": "image/jpeg",
+    "bytes": 2345
+  },
+  "icons/crewai": {
+    "file": "logos/icons/crewai.jpg",
+    "type": "image/jpeg",
+    "bytes": 4947
+  },
+  "icons/crusoe": {
+    "file": "logos/icons/crusoe.jpg",
+    "type": "image/jpeg",
+    "bytes": 2070
+  },
+  "icons/cursor": {
+    "file": "logos/icons/cursor.jpg",
+    "type": "image/jpeg",
+    "bytes": 3625
+  },
+  "icons/cybercut": {
+    "file": "logos/icons/cybercut.jpg",
+    "type": "image/jpeg",
+    "bytes": 2751
+  },
+  "icons/dalle": {
+    "file": "logos/icons/dalle.jpg",
+    "type": "image/jpeg",
+    "bytes": 1474
+  },
+  "icons/databricks": {
+    "file": "logos/icons/databricks.jpg",
+    "type": "image/jpeg",
+    "bytes": 2705
+  },
+  "icons/dbrx": {
+    "file": "logos/icons/dbrx.jpg",
+    "type": "image/jpeg",
+    "bytes": 3508
+  },
+  "icons/deepai": {
+    "file": "logos/icons/deepai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2551
+  },
+  "icons/deepcogito": {
+    "file": "logos/icons/deepcogito.jpg",
+    "type": "image/jpeg",
+    "bytes": 3427
+  },
+  "icons/deepinfra": {
+    "file": "logos/icons/deepinfra.jpg",
+    "type": "image/jpeg",
+    "bytes": 3871
+  },
+  "icons/deepl": {
+    "file": "logos/icons/deepl.jpg",
+    "type": "image/jpeg",
+    "bytes": 1980
+  },
+  "icons/deepmind": {
+    "file": "logos/icons/deepmind.jpg",
+    "type": "image/jpeg",
+    "bytes": 2960
+  },
+  "icons/deepseek": {
+    "file": "logos/icons/deepseek.jpg",
+    "type": "image/jpeg",
+    "bytes": 2788
+  },
+  "icons/devin": {
+    "file": "logos/icons/devin.jpg",
+    "type": "image/jpeg",
+    "bytes": 3154
+  },
+  "icons/dify": {
+    "file": "logos/icons/dify.jpg",
+    "type": "image/jpeg",
+    "bytes": 2794
+  },
+  "icons/digitalocean": {
+    "file": "logos/icons/digitalocean.jpg",
+    "type": "image/jpeg",
+    "bytes": 3158
+  },
+  "icons/doc2x": {
+    "file": "logos/icons/doc2x.jpg",
+    "type": "image/jpeg",
+    "bytes": 2760
+  },
+  "icons/docsearch": {
+    "file": "logos/icons/docsearch.jpg",
+    "type": "image/jpeg",
+    "bytes": 2634
+  },
+  "icons/dolphin": {
+    "file": "logos/icons/dolphin.jpg",
+    "type": "image/jpeg",
+    "bytes": 2203
+  },
+  "icons/doubao": {
+    "file": "logos/icons/doubao.jpg",
+    "type": "image/jpeg",
+    "bytes": 2719
+  },
+  "icons/dreammachine": {
+    "file": "logos/icons/dreammachine.jpg",
+    "type": "image/jpeg",
+    "bytes": 1866
+  },
+  "icons/edenai": {
+    "file": "logos/icons/edenai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2574
+  },
+  "icons/elevenlabs": {
+    "file": "logos/icons/elevenlabs.jpg",
+    "type": "image/jpeg",
+    "bytes": 1481
+  },
+  "icons/elevenx": {
+    "file": "logos/icons/elevenx.jpg",
+    "type": "image/jpeg",
+    "bytes": 2353
+  },
+  "icons/essentialai": {
+    "file": "logos/icons/essentialai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3266
+  },
+  "icons/exa": {
+    "file": "logos/icons/exa.jpg",
+    "type": "image/jpeg",
+    "bytes": 3027
+  },
+  "icons/fal": {
+    "file": "logos/icons/fal.jpg",
+    "type": "image/jpeg",
+    "bytes": 2579
+  },
+  "icons/falcon": {
+    "file": "logos/icons/falcon.png",
+    "type": "image/png",
+    "bytes": 4505
+  },
+  "icons/fastgpt": {
+    "file": "logos/icons/fastgpt.jpg",
+    "type": "image/jpeg",
+    "bytes": 2031
+  },
+  "icons/featherless": {
+    "file": "logos/icons/featherless.jpg",
+    "type": "image/jpeg",
+    "bytes": 1783
+  },
+  "icons/figma": {
+    "file": "logos/icons/figma.jpg",
+    "type": "image/jpeg",
+    "bytes": 2346
+  },
+  "icons/firecrawl": {
+    "file": "logos/icons/firecrawl.jpg",
+    "type": "image/jpeg",
+    "bytes": 2476
+  },
+  "icons/fireworks": {
+    "file": "logos/icons/fireworks.jpg",
+    "type": "image/jpeg",
+    "bytes": 2343
+  },
+  "icons/fishaudio": {
+    "file": "logos/icons/fishaudio.jpg",
+    "type": "image/jpeg",
+    "bytes": 1840
+  },
+  "icons/flora": {
+    "file": "logos/icons/flora.jpg",
+    "type": "image/jpeg",
+    "bytes": 2664
+  },
+  "icons/flowith": {
+    "file": "logos/icons/flowith.jpg",
+    "type": "image/jpeg",
+    "bytes": 2055
+  },
+  "icons/flux": {
+    "file": "logos/icons/flux.jpg",
+    "type": "image/jpeg",
+    "bytes": 2517
+  },
+  "icons/friendli": {
+    "file": "logos/icons/friendli.jpg",
+    "type": "image/jpeg",
+    "bytes": 2578
+  },
+  "icons/gemini": {
+    "file": "logos/icons/gemini.jpg",
+    "type": "image/jpeg",
+    "bytes": 2210
+  },
+  "icons/geminicli": {
+    "file": "logos/icons/geminicli.jpg",
+    "type": "image/jpeg",
+    "bytes": 2489
+  },
+  "icons/gemma": {
+    "file": "logos/icons/gemma.jpg",
+    "type": "image/jpeg",
+    "bytes": 2326
+  },
+  "icons/giteeai": {
+    "file": "logos/icons/giteeai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3130
+  },
+  "icons/github": {
+    "file": "logos/icons/github.jpg",
+    "type": "image/jpeg",
+    "bytes": 2805
+  },
+  "icons/githubcopilot": {
+    "file": "logos/icons/githubcopilot.jpg",
+    "type": "image/jpeg",
+    "bytes": 2911
+  },
+  "icons/gitlab": {
+    "file": "logos/icons/gitlab.jpg",
+    "type": "image/jpeg",
+    "bytes": 2496
+  },
+  "icons/glama": {
+    "file": "logos/icons/glama.jpg",
+    "type": "image/jpeg",
+    "bytes": 2606
+  },
+  "icons/glif": {
+    "file": "logos/icons/glif.jpg",
+    "type": "image/jpeg",
+    "bytes": 2354
+  },
+  "icons/glmv": {
+    "file": "logos/icons/glmv.jpg",
+    "type": "image/jpeg",
+    "bytes": 3608
+  },
+  "icons/gmicloud": {
+    "file": "logos/icons/gmicloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 1575
+  },
+  "icons/google": {
+    "file": "logos/icons/google.jpg",
+    "type": "image/jpeg",
+    "bytes": 2824
+  },
+  "icons/googlecloud": {
+    "file": "logos/icons/googlecloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2759
+  },
+  "icons/goose": {
+    "file": "logos/icons/goose.jpg",
+    "type": "image/jpeg",
+    "bytes": 4194
+  },
+  "icons/gpt-3.5": {
+    "file": "logos/icons/gpt-3.5.png",
+    "type": "image/png",
+    "bytes": 5573
+  },
+  "icons/gpt-4": {
+    "file": "logos/icons/gpt-4.png",
+    "type": "image/png",
+    "bytes": 4539
+  },
+  "icons/gpt4all": {
+    "file": "logos/icons/gpt4all.png",
+    "type": "image/png",
+    "bytes": 8595
+  },
+  "icons/gradio": {
+    "file": "logos/icons/gradio.jpg",
+    "type": "image/jpeg",
+    "bytes": 2979
+  },
+  "icons/greptile": {
+    "file": "logos/icons/greptile.jpg",
+    "type": "image/jpeg",
+    "bytes": 2256
+  },
+  "icons/grok": {
+    "file": "logos/icons/grok.jpg",
+    "type": "image/jpeg",
+    "bytes": 2485
+  },
+  "icons/groq": {
+    "file": "logos/icons/groq.jpg",
+    "type": "image/jpeg",
+    "bytes": 2290
+  },
+  "icons/gryphe": {
+    "file": "logos/icons/gryphe.png",
+    "type": "image/png",
+    "bytes": 21691
+  },
+  "icons/hailuo": {
+    "file": "logos/icons/hailuo.jpg",
+    "type": "image/jpeg",
+    "bytes": 3128
+  },
+  "icons/haiper": {
+    "file": "logos/icons/haiper.jpg",
+    "type": "image/jpeg",
+    "bytes": 2698
+  },
+  "icons/happyhorse": {
+    "file": "logos/icons/happyhorse.jpg",
+    "type": "image/jpeg",
+    "bytes": 2707
+  },
+  "icons/hedra": {
+    "file": "logos/icons/hedra.jpg",
+    "type": "image/jpeg",
+    "bytes": 3183
+  },
+  "icons/helicone": {
+    "file": "logos/icons/helicone.jpg",
+    "type": "image/jpeg",
+    "bytes": 3268
+  },
+  "icons/hermesagent": {
+    "file": "logos/icons/hermesagent.jpg",
+    "type": "image/jpeg",
+    "bytes": 5340
+  },
+  "icons/hetzner": {
+    "file": "logos/icons/hetzner.jpg",
+    "type": "image/jpeg",
+    "bytes": 2061
+  },
+  "icons/hidream": {
+    "file": "logos/icons/hidream.png",
+    "type": "image/png",
+    "bytes": 5616
+  },
+  "icons/higress": {
+    "file": "logos/icons/higress.jpg",
+    "type": "image/jpeg",
+    "bytes": 3073
+  },
+  "icons/huawei": {
+    "file": "logos/icons/huawei.jpg",
+    "type": "image/jpeg",
+    "bytes": 3228
+  },
+  "icons/huaweicloud": {
+    "file": "logos/icons/huaweicloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 3228
+  },
+  "icons/huggingface": {
+    "file": "logos/icons/huggingface.jpg",
+    "type": "image/jpeg",
+    "bytes": 3061
+  },
+  "icons/hunyuan": {
+    "file": "logos/icons/hunyuan.jpg",
+    "type": "image/jpeg",
+    "bytes": 3022
+  },
+  "icons/hyperbolic": {
+    "file": "logos/icons/hyperbolic.jpg",
+    "type": "image/jpeg",
+    "bytes": 2939
+  },
+  "icons/ibm": {
+    "file": "logos/icons/ibm.jpg",
+    "type": "image/jpeg",
+    "bytes": 2208
+  },
+  "icons/ideogram": {
+    "file": "logos/icons/ideogram.jpg",
+    "type": "image/jpeg",
+    "bytes": 3313
+  },
+  "icons/iflow": {
+    "file": "logos/icons/iflow.jpg",
+    "type": "image/jpeg",
+    "bytes": 2401
+  },
+  "icons/iflytekcloud": {
+    "file": "logos/icons/iflytekcloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 3016
+  },
+  "icons/inception": {
+    "file": "logos/icons/inception.jpg",
+    "type": "image/jpeg",
+    "bytes": 1872
+  },
+  "icons/inference": {
+    "file": "logos/icons/inference.jpg",
+    "type": "image/jpeg",
+    "bytes": 2150
+  },
+  "icons/infermatic": {
+    "file": "logos/icons/infermatic.jpg",
+    "type": "image/jpeg",
+    "bytes": 2343
+  },
+  "icons/infinigence": {
+    "file": "logos/icons/infinigence.jpg",
+    "type": "image/jpeg",
+    "bytes": 1837
+  },
+  "icons/inflection": {
+    "file": "logos/icons/inflection.jpg",
+    "type": "image/jpeg",
+    "bytes": 1496
+  },
+  "icons/infomaniak": {
+    "file": "logos/icons/infomaniak.jpg",
+    "type": "image/jpeg",
+    "bytes": 2090
+  },
+  "icons/internlm": {
+    "file": "logos/icons/internlm.jpg",
+    "type": "image/jpeg",
+    "bytes": 2673
+  },
+  "icons/jimeng": {
+    "file": "logos/icons/jimeng.jpg",
+    "type": "image/jpeg",
+    "bytes": 2045
+  },
+  "icons/jina": {
+    "file": "logos/icons/jina.jpg",
+    "type": "image/jpeg",
+    "bytes": 1897
+  },
+  "icons/junie": {
+    "file": "logos/icons/junie.jpg",
+    "type": "image/jpeg",
+    "bytes": 1937
+  },
+  "icons/kagi": {
+    "file": "logos/icons/kagi.jpg",
+    "type": "image/jpeg",
+    "bytes": 2580
+  },
+  "icons/kilocode": {
+    "file": "logos/icons/kilocode.jpg",
+    "type": "image/jpeg",
+    "bytes": 5379
+  },
+  "icons/kimi": {
+    "file": "logos/icons/kimi.jpg",
+    "type": "image/jpeg",
+    "bytes": 2195
+  },
+  "icons/kiro": {
+    "file": "logos/icons/kiro.jpg",
+    "type": "image/jpeg",
+    "bytes": 2507
+  },
+  "icons/kling": {
+    "file": "logos/icons/kling.jpg",
+    "type": "image/jpeg",
+    "bytes": 2866
+  },
+  "icons/kluster": {
+    "file": "logos/icons/kluster.jpg",
+    "type": "image/jpeg",
+    "bytes": 3043
+  },
+  "icons/kolors": {
+    "file": "logos/icons/kolors.jpg",
+    "type": "image/jpeg",
+    "bytes": 2242
+  },
+  "icons/krea": {
+    "file": "logos/icons/krea.jpg",
+    "type": "image/jpeg",
+    "bytes": 2499
+  },
+  "icons/kuaecloud": {
+    "file": "logos/icons/kuaecloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2804
+  },
+  "icons/kwaikat-text": {
+    "file": "logos/icons/kwaikat-text.jpg",
+    "type": "image/jpeg",
+    "bytes": 1211
+  },
+  "icons/kwaikat": {
+    "file": "logos/icons/kwaikat.jpg",
+    "type": "image/jpeg",
+    "bytes": 2882
+  },
+  "icons/kwaipilot": {
+    "file": "logos/icons/kwaipilot.jpg",
+    "type": "image/jpeg",
+    "bytes": 1732
+  },
+  "icons/lambda": {
+    "file": "logos/icons/lambda.jpg",
+    "type": "image/jpeg",
+    "bytes": 2522
+  },
+  "icons/langchain": {
+    "file": "logos/icons/langchain.jpg",
+    "type": "image/jpeg",
+    "bytes": 3705
+  },
+  "icons/langfuse": {
+    "file": "logos/icons/langfuse.jpg",
+    "type": "image/jpeg",
+    "bytes": 3069
+  },
+  "icons/langgraph": {
+    "file": "logos/icons/langgraph.jpg",
+    "type": "image/jpeg",
+    "bytes": 2204
+  },
+  "icons/langsmith": {
+    "file": "logos/icons/langsmith.jpg",
+    "type": "image/jpeg",
+    "bytes": 2270
+  },
+  "icons/leptonai": {
+    "file": "logos/icons/leptonai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2834
+  },
+  "icons/lg": {
+    "file": "logos/icons/lg.jpg",
+    "type": "image/jpeg",
+    "bytes": 3277
+  },
+  "icons/lightricks": {
+    "file": "logos/icons/lightricks.jpg",
+    "type": "image/jpeg",
+    "bytes": 2778
+  },
+  "icons/liquid": {
+    "file": "logos/icons/liquid.jpg",
+    "type": "image/jpeg",
+    "bytes": 2554
+  },
+  "icons/litellm": {
+    "file": "logos/icons/litellm.svg",
+    "type": "image/svg+xml",
+    "bytes": 1834
+  },
+  "icons/livekit": {
+    "file": "logos/icons/livekit.jpg",
+    "type": "image/jpeg",
+    "bytes": 1589
+  },
+  "icons/llama": {
+    "file": "logos/icons/llama.png",
+    "type": "image/png",
+    "bytes": 4937
+  },
+  "icons/llamaindex": {
+    "file": "logos/icons/llamaindex.jpg",
+    "type": "image/jpeg",
+    "bytes": 2840
+  },
+  "icons/llava": {
+    "file": "logos/icons/llava.jpg",
+    "type": "image/jpeg",
+    "bytes": 3249
+  },
+  "icons/llmapi": {
+    "file": "logos/icons/llmapi.jpg",
+    "type": "image/jpeg",
+    "bytes": 3144
+  },
+  "icons/llmgateway": {
+    "file": "logos/icons/llmgateway.jpg",
+    "type": "image/jpeg",
+    "bytes": 2267
+  },
+  "icons/lmstudio": {
+    "file": "logos/icons/lmstudio.jpg",
+    "type": "image/jpeg",
+    "bytes": 2416
+  },
+  "icons/longcat": {
+    "file": "logos/icons/longcat.jpg",
+    "type": "image/jpeg",
+    "bytes": 2460
+  },
+  "icons/lovable": {
+    "file": "logos/icons/lovable.jpg",
+    "type": "image/jpeg",
+    "bytes": 1988
+  },
+  "icons/lovart": {
+    "file": "logos/icons/lovart.jpg",
+    "type": "image/jpeg",
+    "bytes": 2776
+  },
+  "icons/lucidity": {
+    "file": "logos/icons/lucidity.png",
+    "type": "image/png",
+    "bytes": 43302
+  },
+  "icons/luma": {
+    "file": "logos/icons/luma.jpg",
+    "type": "image/jpeg",
+    "bytes": 2074
+  },
+  "icons/magic": {
+    "file": "logos/icons/magic.jpg",
+    "type": "image/jpeg",
+    "bytes": 2495
+  },
+  "icons/make": {
+    "file": "logos/icons/make.jpg",
+    "type": "image/jpeg",
+    "bytes": 2552
+  },
+  "icons/manus": {
+    "file": "logos/icons/manus.jpg",
+    "type": "image/jpeg",
+    "bytes": 2777
+  },
+  "icons/mastra": {
+    "file": "logos/icons/mastra.jpg",
+    "type": "image/jpeg",
+    "bytes": 5751
+  },
+  "icons/mcp": {
+    "file": "logos/icons/mcp.jpg",
+    "type": "image/jpeg",
+    "bytes": 15817
+  },
+  "icons/mcpso": {
+    "file": "logos/icons/mcpso.jpg",
+    "type": "image/jpeg",
+    "bytes": 2881
+  },
+  "icons/meganova": {
+    "file": "logos/icons/meganova.jpg",
+    "type": "image/jpeg",
+    "bytes": 6643
+  },
+  "icons/menlo": {
+    "file": "logos/icons/menlo.jpg",
+    "type": "image/jpeg",
+    "bytes": 2475
+  },
+  "icons/mergegateway": {
+    "file": "logos/icons/mergegateway.jpg",
+    "type": "image/jpeg",
+    "bytes": 1678
+  },
+  "icons/meshy": {
+    "file": "logos/icons/meshy.jpg",
+    "type": "image/jpeg",
+    "bytes": 3538
+  },
+  "icons/meta": {
+    "file": "logos/icons/meta.jpg",
+    "type": "image/jpeg",
+    "bytes": 3110
+  },
+  "icons/metaai": {
+    "file": "logos/icons/metaai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3033
+  },
+  "icons/metagpt": {
+    "file": "logos/icons/metagpt.jpg",
+    "type": "image/jpeg",
+    "bytes": 3070
+  },
+  "icons/microsoft": {
+    "file": "logos/icons/microsoft.jpg",
+    "type": "image/jpeg",
+    "bytes": 2417
+  },
+  "icons/midjourney": {
+    "file": "logos/icons/midjourney.jpg",
+    "type": "image/jpeg",
+    "bytes": 2872
+  },
+  "icons/minimax": {
+    "file": "logos/icons/minimax.jpg",
+    "type": "image/jpeg",
+    "bytes": 2612
+  },
+  "icons/mistral": {
+    "file": "logos/icons/mistral.jpg",
+    "type": "image/jpeg",
+    "bytes": 2433
+  },
+  "icons/modal": {
+    "file": "logos/icons/modal.jpg",
+    "type": "image/jpeg",
+    "bytes": 2176
+  },
+  "icons/modelis": {
+    "file": "logos/icons/modelis.jpg",
+    "type": "image/jpeg",
+    "bytes": 2304
+  },
+  "icons/modelscope": {
+    "file": "logos/icons/modelscope.jpg",
+    "type": "image/jpeg",
+    "bytes": 2626
+  },
+  "icons/monica": {
+    "file": "logos/icons/monica.jpg",
+    "type": "image/jpeg",
+    "bytes": 3065
+  },
+  "icons/moonshot": {
+    "file": "logos/icons/moonshot.jpg",
+    "type": "image/jpeg",
+    "bytes": 3244
+  },
+  "icons/morph": {
+    "file": "logos/icons/morph.jpg",
+    "type": "image/jpeg",
+    "bytes": 2324
+  },
+  "icons/moxt": {
+    "file": "logos/icons/moxt.jpg",
+    "type": "image/jpeg",
+    "bytes": 2692
+  },
+  "icons/myshell": {
+    "file": "logos/icons/myshell.jpg",
+    "type": "image/jpeg",
+    "bytes": 2192
+  },
+  "icons/n8n": {
+    "file": "logos/icons/n8n.jpg",
+    "type": "image/jpeg",
+    "bytes": 2962
+  },
+  "icons/nanobanana": {
+    "file": "logos/icons/nanobanana.jpg",
+    "type": "image/jpeg",
+    "bytes": 1922
+  },
+  "icons/nearai": {
+    "file": "logos/icons/nearai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2013
+  },
+  "icons/nebius": {
+    "file": "logos/icons/nebius.jpg",
+    "type": "image/jpeg",
+    "bytes": 2350
+  },
+  "icons/neon": {
+    "file": "logos/icons/neon.jpg",
+    "type": "image/jpeg",
+    "bytes": 1931
+  },
+  "icons/newapi": {
+    "file": "logos/icons/newapi.jpg",
+    "type": "image/jpeg",
+    "bytes": 2910
+  },
+  "icons/notebooklm": {
+    "file": "logos/icons/notebooklm.jpg",
+    "type": "image/jpeg",
+    "bytes": 2693
+  },
+  "icons/notion": {
+    "file": "logos/icons/notion.jpg",
+    "type": "image/jpeg",
+    "bytes": 2887
+  },
+  "icons/nousresearch": {
+    "file": "logos/icons/nousresearch.jpg",
+    "type": "image/jpeg",
+    "bytes": 3257
+  },
+  "icons/nova": {
+    "file": "logos/icons/nova.jpg",
+    "type": "image/jpeg",
+    "bytes": 2555
+  },
+  "icons/novelai": {
+    "file": "logos/icons/novelai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2575
+  },
+  "icons/novita": {
+    "file": "logos/icons/novita.jpg",
+    "type": "image/jpeg",
+    "bytes": 1908
+  },
+  "icons/nplcloud": {
+    "file": "logos/icons/nplcloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2028
+  },
+  "icons/nvidia": {
+    "file": "logos/icons/nvidia.jpg",
+    "type": "image/jpeg",
+    "bytes": 2395
+  },
+  "icons/obsidian": {
+    "file": "logos/icons/obsidian.jpg",
+    "type": "image/jpeg",
+    "bytes": 2284
+  },
+  "icons/ollama": {
+    "file": "logos/icons/ollama.jpg",
+    "type": "image/jpeg",
+    "bytes": 2540
+  },
+  "icons/open-assistant": {
+    "file": "logos/icons/open-assistant.png",
+    "type": "image/png",
+    "bytes": 3690
+  },
+  "icons/openai": {
+    "file": "logos/icons/openai.svg",
+    "type": "image/svg+xml",
+    "bytes": 1802
+  },
+  "icons/openchat": {
+    "file": "logos/icons/openchat.jpg",
+    "type": "image/jpeg",
+    "bytes": 2429
+  },
+  "icons/openclaw": {
+    "file": "logos/icons/openclaw.jpg",
+    "type": "image/jpeg",
+    "bytes": 4015
+  },
+  "icons/opencode": {
+    "file": "logos/icons/opencode.jpg",
+    "type": "image/jpeg",
+    "bytes": 3212
+  },
+  "icons/openhands": {
+    "file": "logos/icons/openhands.jpg",
+    "type": "image/jpeg",
+    "bytes": 4576
+  },
+  "icons/openhuman": {
+    "file": "logos/icons/openhuman.jpg",
+    "type": "image/jpeg",
+    "bytes": 1891
+  },
+  "icons/openrouter": {
+    "file": "logos/icons/openrouter.jpg",
+    "type": "image/jpeg",
+    "bytes": 2010
+  },
+  "icons/openrouterai": {
+    "file": "logos/icons/openrouterai.png",
+    "type": "image/png",
+    "bytes": 1756
+  },
+  "icons/openwebui": {
+    "file": "logos/icons/openwebui.jpg",
+    "type": "image/jpeg",
+    "bytes": 3572
+  },
+  "icons/opper": {
+    "file": "logos/icons/opper.jpg",
+    "type": "image/jpeg",
+    "bytes": 1542
+  },
+  "icons/orca-mini": {
+    "file": "logos/icons/orca-mini.png",
+    "type": "image/png",
+    "bytes": 3876
+  },
+  "icons/ovhcloud": {
+    "file": "logos/icons/ovhcloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2678
+  },
+  "icons/palm": {
+    "file": "logos/icons/palm.jpg",
+    "type": "image/jpeg",
+    "bytes": 2797
+  },
+  "icons/parasail": {
+    "file": "logos/icons/parasail.jpg",
+    "type": "image/jpeg",
+    "bytes": 2192
+  },
+  "icons/perplexity": {
+    "file": "logos/icons/perplexity.jpg",
+    "type": "image/jpeg",
+    "bytes": 3178
+  },
+  "icons/phi-2": {
+    "file": "logos/icons/phi-2.png",
+    "type": "image/png",
+    "bytes": 6040
+  },
+  "icons/phidata": {
+    "file": "logos/icons/phidata.jpg",
+    "type": "image/jpeg",
+    "bytes": 2218
+  },
+  "icons/phind": {
+    "file": "logos/icons/phind.jpg",
+    "type": "image/jpeg",
+    "bytes": 2399
+  },
+  "icons/pi": {
+    "file": "logos/icons/pi.png",
+    "type": "image/png",
+    "bytes": 3719
+  },
+  "icons/pika": {
+    "file": "logos/icons/pika.jpg",
+    "type": "image/jpeg",
+    "bytes": 2028
+  },
+  "icons/pixverse": {
+    "file": "logos/icons/pixverse.jpg",
+    "type": "image/jpeg",
+    "bytes": 1951
+  },
+  "icons/player2": {
+    "file": "logos/icons/player2.jpg",
+    "type": "image/jpeg",
+    "bytes": 2150
+  },
+  "icons/playground": {
+    "file": "logos/icons/playground.jpg",
+    "type": "image/jpeg",
+    "bytes": 8263
+  },
+  "icons/poe": {
+    "file": "logos/icons/poe.jpg",
+    "type": "image/jpeg",
+    "bytes": 2663
+  },
+  "icons/pollinations": {
+    "file": "logos/icons/pollinations.jpg",
+    "type": "image/jpeg",
+    "bytes": 3294
+  },
+  "icons/poolside": {
+    "file": "logos/icons/poolside.jpg",
+    "type": "image/jpeg",
+    "bytes": 3466
+  },
+  "icons/ppio": {
+    "file": "logos/icons/ppio.jpg",
+    "type": "image/jpeg",
+    "bytes": 3405
+  },
+  "icons/prismml": {
+    "file": "logos/icons/prismml.jpg",
+    "type": "image/jpeg",
+    "bytes": 3963
+  },
+  "icons/prunaai": {
+    "file": "logos/icons/prunaai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3148
+  },
+  "icons/pydanticai": {
+    "file": "logos/icons/pydanticai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3351
+  },
+  "icons/qingyan": {
+    "file": "logos/icons/qingyan.jpg",
+    "type": "image/jpeg",
+    "bytes": 3195
+  },
+  "icons/qiniu": {
+    "file": "logos/icons/qiniu.jpg",
+    "type": "image/jpeg",
+    "bytes": 2182
+  },
+  "icons/qoder": {
+    "file": "logos/icons/qoder.jpg",
+    "type": "image/jpeg",
+    "bytes": 2443
+  },
+  "icons/qvac": {
+    "file": "logos/icons/qvac.jpg",
+    "type": "image/jpeg",
+    "bytes": 1651
+  },
+  "icons/qwen": {
+    "file": "logos/icons/qwen.jpg",
+    "type": "image/jpeg",
+    "bytes": 2837
+  },
+  "icons/qwen2": {
+    "file": "logos/icons/qwen2.png",
+    "type": "image/png",
+    "bytes": 6282
+  },
+  "icons/railway": {
+    "file": "logos/icons/railway.jpg",
+    "type": "image/jpeg",
+    "bytes": 2620
+  },
+  "icons/recraft": {
+    "file": "logos/icons/recraft.jpg",
+    "type": "image/jpeg",
+    "bytes": 2375
+  },
+  "icons/relace": {
+    "file": "logos/icons/relace.jpg",
+    "type": "image/jpeg",
+    "bytes": 2552
+  },
+  "icons/replicate": {
+    "file": "logos/icons/replicate.jpg",
+    "type": "image/jpeg",
+    "bytes": 2206
+  },
+  "icons/replit": {
+    "file": "logos/icons/replit.jpg",
+    "type": "image/jpeg",
+    "bytes": 1979
+  },
+  "icons/reve": {
+    "file": "logos/icons/reve.jpg",
+    "type": "image/jpeg",
+    "bytes": 3099
+  },
+  "icons/roocode": {
+    "file": "logos/icons/roocode.jpg",
+    "type": "image/jpeg",
+    "bytes": 2701
+  },
+  "icons/rsshub": {
+    "file": "logos/icons/rsshub.jpg",
+    "type": "image/jpeg",
+    "bytes": 2107
+  },
+  "icons/rundiffusion": {
+    "file": "logos/icons/rundiffusion.png",
+    "type": "image/png",
+    "bytes": 9813
+  },
+  "icons/runway": {
+    "file": "logos/icons/runway.jpg",
+    "type": "image/jpeg",
+    "bytes": 3078
+  },
+  "icons/rwkv": {
+    "file": "logos/icons/rwkv.jpg",
+    "type": "image/jpeg",
+    "bytes": 2262
+  },
+  "icons/sakana": {
+    "file": "logos/icons/sakana.jpg",
+    "type": "image/jpeg",
+    "bytes": 2194
+  },
+  "icons/saladcloud": {
+    "file": "logos/icons/saladcloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2060
+  },
+  "icons/sambanova": {
+    "file": "logos/icons/sambanova.jpg",
+    "type": "image/jpeg",
+    "bytes": 3257
+  },
+  "icons/sao10k": {
+    "file": "logos/icons/sao10k.jpg",
+    "type": "image/jpeg",
+    "bytes": 18518
+  },
+  "icons/sarvam": {
+    "file": "logos/icons/sarvam.jpg",
+    "type": "image/jpeg",
+    "bytes": 3573
+  },
+  "icons/scaleway": {
+    "file": "logos/icons/scaleway.jpg",
+    "type": "image/jpeg",
+    "bytes": 1829
+  },
+  "icons/scnet": {
+    "file": "logos/icons/scnet.jpg",
+    "type": "image/jpeg",
+    "bytes": 1882
+  },
+  "icons/search1api": {
+    "file": "logos/icons/search1api.jpg",
+    "type": "image/jpeg",
+    "bytes": 3289
+  },
+  "icons/searchapi": {
+    "file": "logos/icons/searchapi.jpg",
+    "type": "image/jpeg",
+    "bytes": 2808
+  },
+  "icons/searxng": {
+    "file": "logos/icons/searxng.jpg",
+    "type": "image/jpeg",
+    "bytes": 2861
+  },
+  "icons/sensenova": {
+    "file": "logos/icons/sensenova.jpg",
+    "type": "image/jpeg",
+    "bytes": 2473
+  },
+  "icons/siliconcloud": {
+    "file": "logos/icons/siliconcloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 1565
+  },
+  "icons/sillytavern": {
+    "file": "logos/icons/sillytavern.jpg",
+    "type": "image/jpeg",
+    "bytes": 4090
+  },
+  "icons/skywork": {
+    "file": "logos/icons/skywork.jpg",
+    "type": "image/jpeg",
+    "bytes": 2548
+  },
+  "icons/slock": {
+    "file": "logos/icons/slock.jpg",
+    "type": "image/jpeg",
+    "bytes": 3010
+  },
+  "icons/smithery": {
+    "file": "logos/icons/smithery.jpg",
+    "type": "image/jpeg",
+    "bytes": 2331
+  },
+  "icons/snowflake": {
+    "file": "logos/icons/snowflake.jpg",
+    "type": "image/jpeg",
+    "bytes": 3545
+  },
+  "icons/sophnet": {
+    "file": "logos/icons/sophnet.jpg",
+    "type": "image/jpeg",
+    "bytes": 2345
+  },
+  "icons/sora": {
+    "file": "logos/icons/sora.jpg",
+    "type": "image/jpeg",
+    "bytes": 2893
+  },
+  "icons/spark": {
+    "file": "logos/icons/spark.jpg",
+    "type": "image/jpeg",
+    "bytes": 2828
+  },
+  "icons/speedai": {
+    "file": "logos/icons/speedai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2888
+  },
+  "icons/stability": {
+    "file": "logos/icons/stability.jpg",
+    "type": "image/jpeg",
+    "bytes": 2482
+  },
+  "icons/stackit": {
+    "file": "logos/icons/stackit.jpg",
+    "type": "image/jpeg",
+    "bytes": 1863
+  },
+  "icons/statecloud": {
+    "file": "logos/icons/statecloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2782
+  },
+  "icons/stepfun": {
+    "file": "logos/icons/stepfun.jpg",
+    "type": "image/jpeg",
+    "bytes": 2402
+  },
+  "icons/straico": {
+    "file": "logos/icons/straico.jpg",
+    "type": "image/jpeg",
+    "bytes": 1964
+  },
+  "icons/streamlake": {
+    "file": "logos/icons/streamlake.jpg",
+    "type": "image/jpeg",
+    "bytes": 2985
+  },
+  "icons/submodel": {
+    "file": "logos/icons/submodel.jpg",
+    "type": "image/jpeg",
+    "bytes": 3050
+  },
+  "icons/suno": {
+    "file": "logos/icons/suno.jpg",
+    "type": "image/jpeg",
+    "bytes": 1809
+  },
+  "icons/sync": {
+    "file": "logos/icons/sync.jpg",
+    "type": "image/jpeg",
+    "bytes": 2840
+  },
+  "icons/targon": {
+    "file": "logos/icons/targon.jpg",
+    "type": "image/jpeg",
+    "bytes": 2540
+  },
+  "icons/tavily": {
+    "file": "logos/icons/tavily.jpg",
+    "type": "image/jpeg",
+    "bytes": 2228
+  },
+  "icons/tencent": {
+    "file": "logos/icons/tencent.jpg",
+    "type": "image/jpeg",
+    "bytes": 2221
+  },
+  "icons/tencentcloud": {
+    "file": "logos/icons/tencentcloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2832
+  },
+  "icons/tensorx": {
+    "file": "logos/icons/tensorx.jpg",
+    "type": "image/jpeg",
+    "bytes": 2517
+  },
+  "icons/thinkingmachines": {
+    "file": "logos/icons/thinkingmachines.jpg",
+    "type": "image/jpeg",
+    "bytes": 2177
+  },
+  "icons/tiangong": {
+    "file": "logos/icons/tiangong.jpg",
+    "type": "image/jpeg",
+    "bytes": 3013
+  },
+  "icons/tii": {
+    "file": "logos/icons/tii.jpg",
+    "type": "image/jpeg",
+    "bytes": 2585
+  },
+  "icons/tinfoil": {
+    "file": "logos/icons/tinfoil.jpg",
+    "type": "image/jpeg",
+    "bytes": 2337
+  },
+  "icons/together": {
+    "file": "logos/icons/together.jpg",
+    "type": "image/jpeg",
+    "bytes": 2614
+  },
+  "icons/topazlabs": {
+    "file": "logos/icons/topazlabs.jpg",
+    "type": "image/jpeg",
+    "bytes": 1604
+  },
+  "icons/trae": {
+    "file": "logos/icons/trae.jpg",
+    "type": "image/jpeg",
+    "bytes": 2101
+  },
+  "icons/tripo": {
+    "file": "logos/icons/tripo.jpg",
+    "type": "image/jpeg",
+    "bytes": 2722
+  },
+  "icons/turix": {
+    "file": "logos/icons/turix.jpg",
+    "type": "image/jpeg",
+    "bytes": 3243
+  },
+  "icons/udio": {
+    "file": "logos/icons/udio.jpg",
+    "type": "image/jpeg",
+    "bytes": 2491
+  },
+  "icons/unsloth": {
+    "file": "logos/icons/unsloth.jpg",
+    "type": "image/jpeg",
+    "bytes": 3405
+  },
+  "icons/unstructured": {
+    "file": "logos/icons/unstructured.jpg",
+    "type": "image/jpeg",
+    "bytes": 3044
+  },
+  "icons/upstage": {
+    "file": "logos/icons/upstage.jpg",
+    "type": "image/jpeg",
+    "bytes": 2008
+  },
+  "icons/v0": {
+    "file": "logos/icons/v0.jpg",
+    "type": "image/jpeg",
+    "bytes": 2068
+  },
+  "icons/vectorizerai": {
+    "file": "logos/icons/vectorizerai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2751
+  },
+  "icons/venice": {
+    "file": "logos/icons/venice.jpg",
+    "type": "image/jpeg",
+    "bytes": 3655
+  },
+  "icons/vercel": {
+    "file": "logos/icons/vercel.jpg",
+    "type": "image/jpeg",
+    "bytes": 2548
+  },
+  "icons/vertexai": {
+    "file": "logos/icons/vertexai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2758
+  },
+  "icons/vicuna": {
+    "file": "logos/icons/vicuna.png",
+    "type": "image/png",
+    "bytes": 5560
+  },
+  "icons/vidu": {
+    "file": "logos/icons/vidu.jpg",
+    "type": "image/jpeg",
+    "bytes": 3084
+  },
+  "icons/viggle": {
+    "file": "logos/icons/viggle.jpg",
+    "type": "image/jpeg",
+    "bytes": 2640
+  },
+  "icons/vllm": {
+    "file": "logos/icons/vllm.jpg",
+    "type": "image/jpeg",
+    "bytes": 2314
+  },
+  "icons/volcengine": {
+    "file": "logos/icons/volcengine.jpg",
+    "type": "image/jpeg",
+    "bytes": 2474
+  },
+  "icons/voyage": {
+    "file": "logos/icons/voyage.jpg",
+    "type": "image/jpeg",
+    "bytes": 2259
+  },
+  "icons/vultr": {
+    "file": "logos/icons/vultr.jpg",
+    "type": "image/jpeg",
+    "bytes": 1524
+  },
+  "icons/wandb": {
+    "file": "logos/icons/wandb.jpg",
+    "type": "image/jpeg",
+    "bytes": 1695
+  },
+  "icons/wenxin": {
+    "file": "logos/icons/wenxin.jpg",
+    "type": "image/jpeg",
+    "bytes": 3013
+  },
+  "icons/windsurf": {
+    "file": "logos/icons/windsurf.jpg",
+    "type": "image/jpeg",
+    "bytes": 2261
+  },
+  "icons/workersai": {
+    "file": "logos/icons/workersai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2582
+  },
+  "icons/worldrouter": {
+    "file": "logos/icons/worldrouter.jpg",
+    "type": "image/jpeg",
+    "bytes": 3238
+  },
+  "icons/xai": {
+    "file": "logos/icons/xai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2696
+  },
+  "icons/xiaomi": {
+    "file": "logos/icons/xiaomi.svg",
+    "type": "image/svg+xml",
+    "bytes": 907
+  },
+  "icons/xiaomimimo": {
+    "file": "logos/icons/xiaomimimo.jpg",
+    "type": "image/jpeg",
+    "bytes": 2908
+  },
+  "icons/xinference": {
+    "file": "logos/icons/xinference.jpg",
+    "type": "image/jpeg",
+    "bytes": 3112
+  },
+  "icons/xpay": {
+    "file": "logos/icons/xpay.jpg",
+    "type": "image/jpeg",
+    "bytes": 2976
+  },
+  "icons/xuanyuan": {
+    "file": "logos/icons/xuanyuan.jpg",
+    "type": "image/jpeg",
+    "bytes": 1861
+  },
+  "icons/yandex": {
+    "file": "logos/icons/yandex.jpg",
+    "type": "image/jpeg",
+    "bytes": 1957
+  },
+  "icons/yi": {
+    "file": "logos/icons/yi.jpg",
+    "type": "image/jpeg",
+    "bytes": 2171
+  },
+  "icons/youmind": {
+    "file": "logos/icons/youmind.jpg",
+    "type": "image/jpeg",
+    "bytes": 2159
+  },
+  "icons/yuanbao": {
+    "file": "logos/icons/yuanbao.jpg",
+    "type": "image/jpeg",
+    "bytes": 3010
+  },
+  "icons/zai": {
+    "file": "logos/icons/zai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2320
+  },
+  "icons/zapier": {
+    "file": "logos/icons/zapier.jpg",
+    "type": "image/jpeg",
+    "bytes": 2134
+  },
+  "icons/zeabur": {
+    "file": "logos/icons/zeabur.jpg",
+    "type": "image/jpeg",
+    "bytes": 2095
+  },
+  "icons/zencoder": {
+    "file": "logos/icons/zencoder.jpg",
+    "type": "image/jpeg",
+    "bytes": 3033
+  },
+  "icons/zenmux": {
+    "file": "logos/icons/zenmux.jpg",
+    "type": "image/jpeg",
+    "bytes": 2216
+  },
+  "icons/zeroone": {
+    "file": "logos/icons/zeroone.jpg",
+    "type": "image/jpeg",
+    "bytes": 2171
+  },
+  "icons/zhipu": {
+    "file": "logos/icons/zhipu.jpg",
+    "type": "image/jpeg",
+    "bytes": 3363
+  },
+  "providers/ai21": {
+    "file": "logos/providers/ai21.jpg",
+    "type": "image/jpeg",
+    "bytes": 2098
+  },
+  "providers/alibabacloud": {
+    "file": "logos/providers/alibabacloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2663
+  },
+  "providers/anthropic": {
+    "file": "logos/providers/anthropic.jpg",
+    "type": "image/jpeg",
+    "bytes": 3558
+  },
+  "providers/anyscale": {
+    "file": "logos/providers/anyscale.jpg",
+    "type": "image/jpeg",
+    "bytes": 3104
+  },
+  "providers/architect": {
+    "file": "logos/providers/architect.svg",
+    "type": "image/svg+xml",
+    "bytes": 753
+  },
+  "providers/azure-openai": {
+    "file": "logos/providers/azure-openai.png",
+    "type": "image/png",
+    "bytes": 4234
+  },
+  "providers/baseten": {
+    "file": "logos/providers/baseten.jpg",
+    "type": "image/jpeg",
+    "bytes": 1837
+  },
+  "providers/bedrock": {
+    "file": "logos/providers/bedrock.jpg",
+    "type": "image/jpeg",
+    "bytes": 3071
+  },
+  "providers/cerebras": {
+    "file": "logos/providers/cerebras.jpg",
+    "type": "image/jpeg",
+    "bytes": 2715
+  },
+  "providers/cloudflare": {
+    "file": "logos/providers/cloudflare.jpg",
+    "type": "image/jpeg",
+    "bytes": 1792
+  },
+  "providers/cohere": {
+    "file": "logos/providers/cohere.jpg",
+    "type": "image/jpeg",
+    "bytes": 2367
+  },
+  "providers/databricks": {
+    "file": "logos/providers/databricks.jpg",
+    "type": "image/jpeg",
+    "bytes": 2705
+  },
+  "providers/deepinfra": {
+    "file": "logos/providers/deepinfra.jpg",
+    "type": "image/jpeg",
+    "bytes": 3871
+  },
+  "providers/deepseek": {
+    "file": "logos/providers/deepseek.jpg",
+    "type": "image/jpeg",
+    "bytes": 2788
+  },
+  "providers/fireworks": {
+    "file": "logos/providers/fireworks.jpg",
+    "type": "image/jpeg",
+    "bytes": 2343
+  },
+  "providers/friendli": {
+    "file": "logos/providers/friendli.jpg",
+    "type": "image/jpeg",
+    "bytes": 2578
+  },
+  "providers/gemini": {
+    "file": "logos/providers/gemini.jpg",
+    "type": "image/jpeg",
+    "bytes": 2210
+  },
+  "providers/groq": {
+    "file": "logos/providers/groq.jpg",
+    "type": "image/jpeg",
+    "bytes": 2290
+  },
+  "providers/huggingface": {
+    "file": "logos/providers/huggingface.jpg",
+    "type": "image/jpeg",
+    "bytes": 3061
+  },
+  "providers/hyperbolic": {
+    "file": "logos/providers/hyperbolic.jpg",
+    "type": "image/jpeg",
+    "bytes": 2939
+  },
+  "providers/ibm": {
+    "file": "logos/providers/ibm.jpg",
+    "type": "image/jpeg",
+    "bytes": 2208
+  },
+  "providers/lambda": {
+    "file": "logos/providers/lambda.jpg",
+    "type": "image/jpeg",
+    "bytes": 2522
+  },
+  "providers/mistral": {
+    "file": "logos/providers/mistral.jpg",
+    "type": "image/jpeg",
+    "bytes": 2433
+  },
+  "providers/moonshot": {
+    "file": "logos/providers/moonshot.jpg",
+    "type": "image/jpeg",
+    "bytes": 3244
+  },
+  "providers/nebius": {
+    "file": "logos/providers/nebius.jpg",
+    "type": "image/jpeg",
+    "bytes": 2350
+  },
+  "providers/novita": {
+    "file": "logos/providers/novita.jpg",
+    "type": "image/jpeg",
+    "bytes": 1908
+  },
+  "providers/openai": {
+    "file": "logos/providers/openai.svg",
+    "type": "image/svg+xml",
+    "bytes": 1802
+  },
+  "providers/ovhcloud": {
+    "file": "logos/providers/ovhcloud.jpg",
+    "type": "image/jpeg",
+    "bytes": 2678
+  },
+  "providers/perplexity": {
+    "file": "logos/providers/perplexity.jpg",
+    "type": "image/jpeg",
+    "bytes": 3178
+  },
+  "providers/replicate": {
+    "file": "logos/providers/replicate.jpg",
+    "type": "image/jpeg",
+    "bytes": 2206
+  },
+  "providers/sambanova": {
+    "file": "logos/providers/sambanova.jpg",
+    "type": "image/jpeg",
+    "bytes": 3257
+  },
+  "providers/scaleway": {
+    "file": "logos/providers/scaleway.jpg",
+    "type": "image/jpeg",
+    "bytes": 1829
+  },
+  "providers/snowflake": {
+    "file": "logos/providers/snowflake.jpg",
+    "type": "image/jpeg",
+    "bytes": 3545
+  },
+  "providers/together": {
+    "file": "logos/providers/together.jpg",
+    "type": "image/jpeg",
+    "bytes": 2614
+  },
+  "providers/vertexai": {
+    "file": "logos/providers/vertexai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2758
+  },
+  "providers/volcengine": {
+    "file": "logos/providers/volcengine.jpg",
+    "type": "image/jpeg",
+    "bytes": 2474
+  },
+  "providers/xai": {
+    "file": "logos/providers/xai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2696
+  },
+  "providers/zai": {
+    "file": "logos/providers/zai.jpg",
+    "type": "image/jpeg",
+    "bytes": 2320
+  },
+  "harnesses/anthropic": {
+    "file": "logos/harnesses/anthropic.jpg",
+    "type": "image/jpeg",
+    "bytes": 3558
+  },
+  "harnesses/cherrystudio": {
+    "file": "logos/harnesses/cherrystudio.jpg",
+    "type": "image/jpeg",
+    "bytes": 4420
+  },
+  "harnesses/claude-agent-sdk": {
+    "file": "logos/harnesses/claude-agent-sdk.jpg",
+    "type": "image/jpeg",
+    "bytes": 6120
+  },
+  "harnesses/claudecode": {
+    "file": "logos/harnesses/claudecode.jpg",
+    "type": "image/jpeg",
+    "bytes": 3013
+  },
+  "harnesses/cline": {
+    "file": "logos/harnesses/cline.jpg",
+    "type": "image/jpeg",
+    "bytes": 3834
+  },
+  "harnesses/codex": {
+    "file": "logos/harnesses/codex.jpg",
+    "type": "image/jpeg",
+    "bytes": 3782
+  },
+  "harnesses/comfyui": {
+    "file": "logos/harnesses/comfyui.svg",
+    "type": "image/svg+xml",
+    "bytes": 1183
+  },
+  "harnesses/continue": {
+    "file": "logos/harnesses/continue.jpg",
+    "type": "image/jpeg",
+    "bytes": 4370
+  },
+  "harnesses/crewai": {
+    "file": "logos/harnesses/crewai.jpg",
+    "type": "image/jpeg",
+    "bytes": 4947
+  },
+  "harnesses/crush": {
+    "file": "logos/harnesses/crush.jpg",
+    "type": "image/jpeg",
+    "bytes": 5077
+  },
+  "harnesses/curl": {
+    "file": "logos/harnesses/curl.svg",
+    "type": "image/svg+xml",
+    "bytes": 338
+  },
+  "harnesses/cursor": {
+    "file": "logos/harnesses/cursor.jpg",
+    "type": "image/jpeg",
+    "bytes": 3625
+  },
+  "harnesses/deepseek": {
+    "file": "logos/harnesses/deepseek.jpg",
+    "type": "image/jpeg",
+    "bytes": 2788
+  },
+  "harnesses/dify": {
+    "file": "logos/harnesses/dify.png",
+    "type": "image/png",
+    "bytes": 2852
+  },
+  "harnesses/effect-ai": {
+    "file": "logos/harnesses/effect-ai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3285
+  },
+  "harnesses/factory-droid": {
+    "file": "logos/harnesses/factory-droid.jpg",
+    "type": "image/jpeg",
+    "bytes": 5414
+  },
+  "harnesses/github-copilot": {
+    "file": "logos/harnesses/github-copilot.jpg",
+    "type": "image/jpeg",
+    "bytes": 4361
+  },
+  "harnesses/google-adk": {
+    "file": "logos/harnesses/google-adk.jpg",
+    "type": "image/jpeg",
+    "bytes": 4685
+  },
+  "harnesses/goose": {
+    "file": "logos/harnesses/goose.jpg",
+    "type": "image/jpeg",
+    "bytes": 4194
+  },
+  "harnesses/grok-build": {
+    "file": "logos/harnesses/grok-build.png",
+    "type": "image/png",
+    "bytes": 1528
+  },
+  "harnesses/hermesagent": {
+    "file": "logos/harnesses/hermesagent.jpg",
+    "type": "image/jpeg",
+    "bytes": 5340
+  },
+  "harnesses/jetbrains-ai": {
+    "file": "logos/harnesses/jetbrains-ai.jpg",
+    "type": "image/jpeg",
+    "bytes": 5014
+  },
+  "harnesses/kilocode": {
+    "file": "logos/harnesses/kilocode.jpg",
+    "type": "image/jpeg",
+    "bytes": 5379
+  },
+  "harnesses/kimi-cli": {
+    "file": "logos/harnesses/kimi-cli.jpg",
+    "type": "image/jpeg",
+    "bytes": 6236
+  },
+  "harnesses/langchain": {
+    "file": "logos/harnesses/langchain.jpg",
+    "type": "image/jpeg",
+    "bytes": 3705
+  },
+  "harnesses/litellm": {
+    "file": "logos/harnesses/litellm.svg",
+    "type": "image/svg+xml",
+    "bytes": 1834
+  },
+  "harnesses/llamaindex": {
+    "file": "logos/harnesses/llamaindex.jpg",
+    "type": "image/jpeg",
+    "bytes": 2840
+  },
+  "harnesses/lobehub": {
+    "file": "logos/harnesses/lobehub.png",
+    "type": "image/png",
+    "bytes": 88656
+  },
+  "harnesses/mastra": {
+    "file": "logos/harnesses/mastra.jpg",
+    "type": "image/jpeg",
+    "bytes": 5751
+  },
+  "harnesses/mcp": {
+    "file": "logos/harnesses/mcp.jpg",
+    "type": "image/jpeg",
+    "bytes": 15817
+  },
+  "harnesses/n8n": {
+    "file": "logos/harnesses/n8n.jpg",
+    "type": "image/jpeg",
+    "bytes": 2962
+  },
+  "harnesses/omp": {
+    "file": "logos/harnesses/omp.svg",
+    "type": "image/svg+xml",
+    "bytes": 415
+  },
+  "harnesses/openai": {
+    "file": "logos/harnesses/openai.svg",
+    "type": "image/svg+xml",
+    "bytes": 1802
+  },
+  "harnesses/openclaw": {
+    "file": "logos/harnesses/openclaw.jpg",
+    "type": "image/jpeg",
+    "bytes": 4015
+  },
+  "harnesses/opencode": {
+    "file": "logos/harnesses/opencode.jpg",
+    "type": "image/jpeg",
+    "bytes": 3212
+  },
+  "harnesses/openhands": {
+    "file": "logos/harnesses/openhands.jpg",
+    "type": "image/jpeg",
+    "bytes": 4576
+  },
+  "harnesses/openrouter": {
+    "file": "logos/harnesses/openrouter.jpg",
+    "type": "image/jpeg",
+    "bytes": 2010
+  },
+  "harnesses/openwebui": {
+    "file": "logos/harnesses/openwebui.jpg",
+    "type": "image/jpeg",
+    "bytes": 3572
+  },
+  "harnesses/paperclip": {
+    "file": "logos/harnesses/paperclip.png",
+    "type": "image/png",
+    "bytes": 29374
+  },
+  "harnesses/pgvector": {
+    "file": "logos/harnesses/pgvector.jpg",
+    "type": "image/jpeg",
+    "bytes": 6559
+  },
+  "harnesses/pi-coding-agent": {
+    "file": "logos/harnesses/pi-coding-agent.svg",
+    "type": "image/svg+xml",
+    "bytes": 289
+  },
+  "harnesses/pinecone": {
+    "file": "logos/harnesses/pinecone.jpg",
+    "type": "image/jpeg",
+    "bytes": 4440
+  },
+  "harnesses/portkey": {
+    "file": "logos/harnesses/portkey.svg",
+    "type": "image/svg+xml",
+    "bytes": 491
+  },
+  "harnesses/pydantic-ai": {
+    "file": "logos/harnesses/pydantic-ai.jpg",
+    "type": "image/jpeg",
+    "bytes": 4488
+  },
+  "harnesses/python": {
+    "file": "logos/harnesses/python.png",
+    "type": "image/png",
+    "bytes": 28344
+  },
+  "harnesses/qdrant": {
+    "file": "logos/harnesses/qdrant.jpg",
+    "type": "image/jpeg",
+    "bytes": 6613
+  },
+  "harnesses/qwen-code": {
+    "file": "logos/harnesses/qwen-code.jpg",
+    "type": "image/jpeg",
+    "bytes": 5015
+  },
+  "harnesses/ragflow": {
+    "file": "logos/harnesses/ragflow.svg",
+    "type": "image/svg+xml",
+    "bytes": 3042
+  },
+  "harnesses/reason": {
+    "file": "logos/harnesses/reason.svg",
+    "type": "image/svg+xml",
+    "bytes": 398
+  },
+  "harnesses/rikkahub": {
+    "file": "logos/harnesses/rikkahub.jpg",
+    "type": "image/jpeg",
+    "bytes": 3797
+  },
+  "harnesses/roocode": {
+    "file": "logos/harnesses/roocode.jpg",
+    "type": "image/jpeg",
+    "bytes": 2701
+  },
+  "harnesses/superset": {
+    "file": "logos/harnesses/superset.jpg",
+    "type": "image/jpeg",
+    "bytes": 3352
+  },
+  "harnesses/t3-code": {
+    "file": "logos/harnesses/t3-code.jpg",
+    "type": "image/jpeg",
+    "bytes": 3828
+  },
+  "harnesses/tanstack-ai": {
+    "file": "logos/harnesses/tanstack-ai.jpg",
+    "type": "image/jpeg",
+    "bytes": 3832
+  },
+  "harnesses/vercel": {
+    "file": "logos/harnesses/vercel.jpg",
+    "type": "image/jpeg",
+    "bytes": 2548
+  },
+  "harnesses/xcode": {
+    "file": "logos/harnesses/xcode.svg",
+    "type": "image/svg+xml",
+    "bytes": 2618
+  },
+  "harnesses/zcode": {
+    "file": "logos/harnesses/zcode.jpg",
+    "type": "image/jpeg",
+    "bytes": 4492
+  },
+  "harnesses/zed": {
+    "file": "logos/harnesses/zed.jpg",
+    "type": "image/jpeg",
+    "bytes": 2985
+  }
+}

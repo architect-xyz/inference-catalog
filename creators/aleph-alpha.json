@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "aleph-alpha",
+  "name": "Aleph Alpha",
+  "aliases": [],
+  "logo": "icons/alephalpha"
+}

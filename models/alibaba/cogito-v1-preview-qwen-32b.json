@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/cogito-v1-preview-qwen-32b",
+  "name": "cogito-v1-preview-qwen-32b",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "cogito-v1-preview-qwen-32b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

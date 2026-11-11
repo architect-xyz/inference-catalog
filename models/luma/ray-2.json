@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "luma/ray-2",
+  "name": "ray-2",
+  "creator": "luma",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [
+    "luma/ray-2"
+  ],
+  "logo": "icons/luma"
+}

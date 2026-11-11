@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "databricks",
+  "name": "Databricks",
+  "aliases": [],
+  "logo": "icons/databricks"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/wayfarer-large-70b-llama-3.3",
+  "name": "wayfarer-large-70b-llama-3.3",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "wayfarer-large-70b-llama-3.3",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

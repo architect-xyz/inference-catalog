@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.5-27b:thinking",
+  "name": "qwen3.5-27b:thinking",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3.5-27b:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 27781427952,
+    "active": 27781427952
+  },
+  "logo": "icons/qwen"
+}

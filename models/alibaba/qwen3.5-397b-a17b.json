@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.5-397b-a17b",
+  "name": "qwen3.5-397b-a17b",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3.5-397b-a17b",
+  "status": "APPROVED",
+  "aliases": [
+    "qwen/qwen3.5-397b-a17b",
+    "TEE/qwen3.5-397b-a17b"
+  ],
+  "parameters": {
+    "total": 403397928944,
+    "active": 17000000000
+  },
+  "logo": "icons/qwen"
+}

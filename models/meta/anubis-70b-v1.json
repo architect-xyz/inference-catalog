@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/anubis-70b-v1",
+  "name": "anubis-70b-v1",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "anubis-70b-v1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

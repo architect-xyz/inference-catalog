@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-it-gemsicle",
+  "name": "gemma-4-31b-it-gemsicle",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-it-gemsicle",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

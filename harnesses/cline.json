@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "cline",
+  "name": "Cline",
+  "description": "The VS Code agent.",
+  "logo": "harnesses/cline"
+}

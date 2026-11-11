@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "aisingapore/gemma-sea-lion-v4-27b-it",
+  "name": "gemma-sea-lion-v4-27b-it",
+  "creator": "aisingapore",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "aisingapore/Gemma-SEA-LION-v4-27B-IT"
+  ],
+  "parameters": {
+    "total": 27432406640,
+    "active": 27432406640
+  },
+  "logo": "icons/gemma"
+}

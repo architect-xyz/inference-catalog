@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/wan2.7-image",
+  "name": "wan2.7-image",
+  "creator": "alibaba",
+  "kind": "image_generation",
+  "revision": "wan2.7-image",
+  "status": "APPROVED",
+  "aliases": [
+    "alibaba/wan2.7-image",
+    "wan-2.7-image",
+    "wan2-7-image"
+  ],
+  "logo": "icons/qwen"
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/muse-wonder",
+  "name": "muse-wonder",
+  "creator": "meta",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "meta/muse-wonder"
+  ],
+  "logo": "icons/llama"
+}

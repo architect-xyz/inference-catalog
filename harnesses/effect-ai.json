@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "effect-ai",
+  "name": "Effect AI",
+  "logo": "harnesses/effect-ai"
+}

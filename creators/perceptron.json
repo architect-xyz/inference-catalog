@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "perceptron",
+  "name": "Perceptron",
+  "aliases": [],
+  "logo": null
+}

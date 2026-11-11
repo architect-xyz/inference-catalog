@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-v3.2-exp-thinking",
+  "name": "deepseek-v3.2-exp-thinking",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-v3.2-exp-thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

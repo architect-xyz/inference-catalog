@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemini-2.0-pro-reasoner",
+  "name": "gemini-2.0-pro-reasoner",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemini-2.0-pro-reasoner",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

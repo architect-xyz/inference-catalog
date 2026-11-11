@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "lightricks/lightricks-ltx-2-fast",
+  "name": "lightricks-ltx-2-fast",
+  "creator": "lightricks",
+  "kind": "video_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/lightricks"
+}

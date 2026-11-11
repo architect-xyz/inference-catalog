@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "anthropic/anthropic/voyage-multilingual-2",
+  "name": "anthropic/voyage-multilingual-2",
+  "creator": "anthropic",
+  "kind": "embedding",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/claude"
+}

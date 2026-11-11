@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "baai/bge-m3",
+  "name": "bge-m3",
+  "creator": "baai",
+  "kind": "embedding",
+  "revision": "bge-m3",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/baai"
+}

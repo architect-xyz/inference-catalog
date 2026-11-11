@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/text-multilingual-embedding-002",
+  "name": "text-multilingual-embedding-002",
+  "creator": "google",
+  "kind": "embedding",
+  "revision": "text-multilingual-embedding-002",
+  "status": "APPROVED",
+  "aliases": [
+    "google/text-multilingual-embedding-002"
+  ],
+  "logo": "icons/gemini"
+}

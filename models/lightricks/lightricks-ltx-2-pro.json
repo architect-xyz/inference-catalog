@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "lightricks/lightricks-ltx-2-pro",
+  "name": "lightricks-ltx-2-pro",
+  "creator": "lightricks",
+  "kind": "video_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/lightricks"
+}

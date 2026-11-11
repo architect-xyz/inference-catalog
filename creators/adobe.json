@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "adobe",
+  "name": "Adobe",
+  "aliases": [],
+  "logo": "icons/adobefirefly"
+}

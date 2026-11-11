@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/l3.3-electra-r1-70b",
+  "name": "l3.3-electra-r1-70b",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "l3.3-electra-r1-70b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/nemotron-nano-9b-v2",
+  "name": "nemotron-nano-9b-v2",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "nemotron-nano-9b-v2",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/nvidia"
+}

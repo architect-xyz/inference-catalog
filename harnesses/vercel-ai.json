@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "vercel-ai",
+  "name": "Vercel AI SDK",
+  "description": "Through its OpenAI-compatible provider, with a cap for each request.",
+  "logo": "harnesses/vercel"
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "runwayml",
+  "name": "Runway",
+  "aliases": [],
+  "logo": "icons/runway"
+}

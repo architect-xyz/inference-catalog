@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "bytedance-seed/seed-2.0-mini",
+  "name": "seed-2.0-mini",
+  "creator": "bytedance-seed",
+  "kind": "chat",
+  "revision": "seed-2.0-mini",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/bytedance"
+}

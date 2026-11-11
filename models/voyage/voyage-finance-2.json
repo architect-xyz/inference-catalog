@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "voyage/voyage-finance-2",
+  "name": "voyage-finance-2",
+  "creator": "voyage",
+  "kind": "embedding",
+  "revision": "voyage-finance-2",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

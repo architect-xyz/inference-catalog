@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.8-27b-antislop",
+  "name": "qwen3.8-27b-antislop",
+  "creator": "alibaba",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

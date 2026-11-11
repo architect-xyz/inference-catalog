@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/imagen-3.0-generate-002",
+  "name": "imagen-3.0-generate-002",
+  "creator": "google",
+  "kind": "image_generation",
+  "revision": "imagen-3.0-generate-002",
+  "status": "APPROVED",
+  "aliases": [
+    "google/imagen-3.0-generate-002"
+  ],
+  "logo": "icons/gemini"
+}

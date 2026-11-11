@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-isometry-rp",
+  "name": "gemma-4-31b-isometry-rp",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-isometry-rp",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

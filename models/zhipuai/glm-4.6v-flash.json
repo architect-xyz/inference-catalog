@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-4.6v-flash",
+  "name": "glm-4.6v-flash",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-4.6v-flash",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 10292777472,
+    "active": 10292777472
+  },
+  "logo": "icons/zhipu"
+}

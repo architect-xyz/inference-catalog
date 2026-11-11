@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "kimi-cli",
+  "name": "Kimi CLI",
+  "logo": "harnesses/kimi-cli"
+}

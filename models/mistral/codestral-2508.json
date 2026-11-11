@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/codestral-2508",
+  "name": "codestral-2508",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "codestral-2508",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

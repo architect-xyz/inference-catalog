@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepgram/whisper-base",
+  "name": "whisper-base",
+  "creator": "deepgram",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [
+    "base"
+  ],
+  "logo": "icons/openai"
+}

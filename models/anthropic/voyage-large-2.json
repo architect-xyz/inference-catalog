@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "anthropic/voyage-large-2",
+  "name": "voyage-large-2",
+  "creator": "anthropic",
+  "kind": "embedding",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/claude"
+}

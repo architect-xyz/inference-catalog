@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "pinecone",
+  "name": "Pinecone",
+  "description": "Buy vectors, then store and search them in an index.",
+  "logo": "harnesses/pinecone"
+}

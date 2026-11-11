@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "perplexity",
+  "name": "Perplexity",
+  "description": "Sonar models with search",
+  "type": "model-maker",
+  "logo": "providers/perplexity"
+}

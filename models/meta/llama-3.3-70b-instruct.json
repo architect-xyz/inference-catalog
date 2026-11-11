@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/llama-3.3-70b-instruct",
+  "name": "llama-3.3-70b-instruct",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "llama-3.3-70b-instruct",
+  "status": "APPROVED",
+  "aliases": [
+    "meta-llama/llama-3.3-70b-instruct",
+    "TEE/llama3-3-70b"
+  ],
+  "parameters": {
+    "total": 70553706496,
+    "active": 70553706496
+  },
+  "logo": "icons/llama"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "fetchai/asi1-mini",
+  "name": "asi1-mini",
+  "creator": "fetchai",
+  "kind": "chat",
+  "revision": "asi1-mini",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

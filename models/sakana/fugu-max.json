@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "sakana/fugu-max",
+  "name": "fugu-max",
+  "creator": "sakana",
+  "kind": "chat",
+  "revision": "fugu-max",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/sakana"
+}

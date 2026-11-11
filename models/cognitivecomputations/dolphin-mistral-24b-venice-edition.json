@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "cognitivecomputations/dolphin-mistral-24b-venice-edition",
+  "name": "dolphin-mistral-24b-venice-edition",
+  "creator": "cognitivecomputations",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 24011361280,
+    "active": 24011361280
+  },
+  "logo": "icons/dolphin"
+}

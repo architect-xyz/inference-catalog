@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-v4.1-flash-0910-uncensored:thinking",
+  "name": "deepseek-v4.1-flash-0910-uncensored:thinking",
+  "creator": "deepseek",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

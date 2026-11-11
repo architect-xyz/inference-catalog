@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zovya/rev-animated",
+  "name": "rev-animated",
+  "creator": "zovya",
+  "kind": "image_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

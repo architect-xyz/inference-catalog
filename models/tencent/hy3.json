@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "tencent/hy3",
+  "name": "hy3",
+  "creator": "tencent",
+  "kind": "chat",
+  "revision": "hy3",
+  "status": "APPROVED",
+  "aliases": [
+    "tencent/hy3"
+  ],
+  "parameters": {
+    "total": 298786155776,
+    "active": 20955458816
+  },
+  "logo": "icons/hunyuan"
+}

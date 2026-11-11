@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/whisper-large-v3",
+  "name": "whisper-large-v3",
+  "creator": "openai",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [
+    "whisper-large"
+  ],
+  "logo": "icons/openai"
+}

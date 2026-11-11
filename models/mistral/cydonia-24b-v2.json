@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/cydonia-24b-v2",
+  "name": "cydonia-24b-v2",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "cydonia-24b-v2",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

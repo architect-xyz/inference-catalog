@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "stepfun/step-3.5-flash-2603",
+  "name": "step-3.5-flash-2603",
+  "creator": "stepfun",
+  "kind": "chat",
+  "revision": "step-3.5-flash-2603",
+  "status": "APPROVED",
+  "aliases": [
+    "stepfun-ai/step-3.5-flash-2603"
+  ],
+  "parameters": {
+    "total": 199384301376,
+    "active": 199384301376
+  },
+  "logo": "icons/stepfun"
+}

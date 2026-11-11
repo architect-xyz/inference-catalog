@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/llama-3.3-70b-instruct-turbo",
+  "name": "llama-3.3-70b-instruct-turbo",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "llama-3.3-70b-instruct-turbo",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

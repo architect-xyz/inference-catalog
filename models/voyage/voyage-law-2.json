@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "voyage/voyage-law-2",
+  "name": "voyage-law-2",
+  "creator": "voyage",
+  "kind": "embedding",
+  "revision": "voyage-law-2",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

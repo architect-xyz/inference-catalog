@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "openrouter",
+  "name": "Guides",
+  "logo": "harnesses/openrouter"
+}

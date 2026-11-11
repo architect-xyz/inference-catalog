@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "galrionsoftworks/mn-loosecannon-12b-v1",
+  "name": "mn-loosecannon-12b-v1",
+  "creator": "galrionsoftworks",
+  "kind": "chat",
+  "revision": "mn-loosecannon-12b-v1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

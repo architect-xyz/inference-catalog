@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepgram/nova-2-drivethru",
+  "name": "nova-2-drivethru",
+  "creator": "deepgram",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [
+    "nova-2"
+  ],
+  "logo": "icons/nova"
+}

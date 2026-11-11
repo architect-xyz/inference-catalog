@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "lodestones/chroma",
+  "name": "chroma",
+  "creator": "lodestones",
+  "kind": "image_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

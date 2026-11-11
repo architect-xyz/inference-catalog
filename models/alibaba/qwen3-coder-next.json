@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3-coder-next",
+  "name": "qwen3-coder-next",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3-coder-next",
+  "status": "APPROVED",
+  "aliases": [
+    "qwen/qwen3-coder-next"
+  ],
+  "parameters": {
+    "total": 79674391296,
+    "active": 3874929408
+  },
+  "logo": "icons/qwen"
+}

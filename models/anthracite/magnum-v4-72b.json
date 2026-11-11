@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "anthracite/magnum-v4-72b",
+  "name": "magnum-v4-72b",
+  "creator": "anthracite",
+  "kind": "chat",
+  "revision": "magnum-v4-72b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

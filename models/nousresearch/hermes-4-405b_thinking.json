@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nousresearch/hermes-4-405b:thinking",
+  "name": "hermes-4-405b:thinking",
+  "creator": "nousresearch",
+  "kind": "chat",
+  "revision": "hermes-4-405b:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 405853388800,
+    "active": 405853388800
+  },
+  "logo": "icons/nousresearch"
+}

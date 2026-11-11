@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "reflection/beam-1.0-501b-a23b",
+  "name": "beam-1.0-501b-a23b",
+  "creator": "reflection",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 501267612352,
+    "active": 23000000000
+  },
+  "logo": "icons/huggingface"
+}

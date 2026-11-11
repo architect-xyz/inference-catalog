@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/artemis-v1.1",
+  "name": "artemis-v1.1",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "artemis-v1.1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

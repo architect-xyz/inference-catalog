@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/muse-spark-1.2-contributor",
+  "name": "muse-spark-1.2-contributor",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "muse-spark-1.2-contributor",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

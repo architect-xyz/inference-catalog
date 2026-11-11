@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "alibaba",
+  "name": "Alibaba",
+  "aliases": [
+    "qwen"
+  ],
+  "logo": "icons/qwen"
+}

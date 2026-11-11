@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "tencent/hunyuan-video-1-5",
+  "name": "hunyuan-video-1-5",
+  "creator": "tencent",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/hunyuan"
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "blackforestlabs/flux-2-klein-base-9b",
+  "name": "flux-2-klein-base-9b",
+  "creator": "blackforestlabs",
+  "kind": "image_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/bfl"
+}

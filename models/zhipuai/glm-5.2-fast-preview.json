@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-5.2-fast-preview",
+  "name": "glm-5.2-fast-preview",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-5.2-fast-preview",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/zhipu"
+}

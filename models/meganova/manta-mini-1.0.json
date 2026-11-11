@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meganova/manta-mini-1.0",
+  "name": "manta-mini-1.0",
+  "creator": "meganova",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/meganova"
+}

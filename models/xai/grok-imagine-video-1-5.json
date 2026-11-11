@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "xai/grok-imagine-video-1-5",
+  "name": "grok-imagine-video-1-5",
+  "creator": "xai",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/grok"
+}

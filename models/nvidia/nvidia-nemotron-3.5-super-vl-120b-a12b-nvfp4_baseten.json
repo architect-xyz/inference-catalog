@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/nvidia-nemotron-3.5-super-vl-120b-a12b-nvfp4:baseten",
+  "name": "nvidia-nemotron-3.5-super-vl-120b-a12b-nvfp4:baseten",
+  "creator": "nvidia",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4:baseten"
+  ],
+  "logo": "icons/nvidia"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "soob3123/veiled-calla-12b",
+  "name": "veiled-calla-12b",
+  "creator": "soob3123",
+  "kind": "chat",
+  "revision": "veiled-calla-12b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

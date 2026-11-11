@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepgram/base-voicemail",
+  "name": "base-voicemail",
+  "creator": "deepgram",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

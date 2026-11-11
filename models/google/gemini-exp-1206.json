@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemini-exp-1206",
+  "name": "gemini-exp-1206",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemini-exp-1206",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

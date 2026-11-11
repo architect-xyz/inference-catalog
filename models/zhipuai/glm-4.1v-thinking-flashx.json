@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-4.1v-thinking-flashx",
+  "name": "glm-4.1v-thinking-flashx",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-4.1v-thinking-flashx",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/zhipu"
+}

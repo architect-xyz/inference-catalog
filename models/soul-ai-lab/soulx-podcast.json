@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "soul-ai-lab/soulx-podcast",
+  "name": "soulx-podcast",
+  "creator": "soul-ai-lab",
+  "kind": "audio_speech",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

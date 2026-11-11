@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "xai/grok-4.20-multi-agent",
+  "name": "grok-4.20-multi-agent",
+  "creator": "xai",
+  "kind": "chat",
+  "revision": "grok-4.20-multi-agent",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/grok"
+}

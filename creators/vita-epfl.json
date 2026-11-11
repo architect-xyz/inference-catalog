@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "vita-epfl",
+  "name": "Vita-epfl",
+  "aliases": [],
+  "logo": null
+}

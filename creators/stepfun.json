@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "stepfun",
+  "name": "StepFun",
+  "aliases": [
+    "stepfun-ai"
+  ],
+  "logo": "icons/stepfun"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-5.3-flash-apex",
+  "name": "glm-5.3-flash-apex",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-5.3-flash-apex",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/zhipu"
+}

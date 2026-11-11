@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwq-32b",
+  "name": "qwq-32b",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwq-32b",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 32763876352,
+    "active": 32763876352
+  },
+  "logo": "icons/qwen"
+}

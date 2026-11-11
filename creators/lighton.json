@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "lighton",
+  "name": "Lighton",
+  "aliases": [],
+  "logo": null
+}

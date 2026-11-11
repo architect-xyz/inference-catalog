@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-styletune",
+  "name": "gemma-4-31b-styletune",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-styletune",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

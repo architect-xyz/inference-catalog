@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "llamaindex",
+  "name": "LlamaIndex",
+  "description": "Buy vectors with its OpenAI-like embedding class.",
+  "logo": "harnesses/llamaindex"
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "openai-agents-sdk",
+  "name": "OpenAI Agents SDK",
+  "description": "A Python or TypeScript agent, with a cap on each request.",
+  "logo": "harnesses/openai"
+}

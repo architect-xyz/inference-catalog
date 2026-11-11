@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meituan/longcat-image",
+  "name": "longcat-image",
+  "creator": "meituan",
+  "kind": "image_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/longcat"
+}

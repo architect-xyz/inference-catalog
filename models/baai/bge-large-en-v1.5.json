@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "baai/bge-large-en-v1.5",
+  "name": "bge-large-en-v1.5",
+  "creator": "baai",
+  "kind": "embedding",
+  "revision": "bge-large-en-v1.5",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/baai"
+}

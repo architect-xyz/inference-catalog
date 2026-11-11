@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "hidream/hidream-o1-image",
+  "name": "hidream-o1-image",
+  "creator": "hidream",
+  "kind": "image_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/hidream"
+}

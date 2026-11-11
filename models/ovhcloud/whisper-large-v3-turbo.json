@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "ovhcloud/whisper-large-v3-turbo",
+  "name": "whisper-large-v3-turbo",
+  "creator": "ovhcloud",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

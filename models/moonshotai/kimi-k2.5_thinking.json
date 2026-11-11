@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "moonshotai/kimi-k2.5:thinking",
+  "name": "kimi-k2.5:thinking",
+  "creator": "moonshotai",
+  "kind": "chat",
+  "revision": "kimi-k2.5:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 1026879376368,
+    "active": 33332644848
+  },
+  "logo": "icons/kimi"
+}

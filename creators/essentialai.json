@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "essentialai",
+  "name": "Essential AI",
+  "aliases": [],
+  "logo": "icons/essentialai"
+}

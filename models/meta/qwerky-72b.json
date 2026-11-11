@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/qwerky-72b",
+  "name": "qwerky-72b",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "qwerky-72b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

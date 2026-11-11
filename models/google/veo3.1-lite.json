@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/veo3.1-lite",
+  "name": "veo3.1-lite",
+  "creator": "google",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

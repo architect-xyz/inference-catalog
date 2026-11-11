@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "n8n",
+  "name": "n8n",
+  "description": "Workflow automation: text, images and video with the HTTP Request node or the OpenAI node.",
+  "logo": "harnesses/n8n"
+}

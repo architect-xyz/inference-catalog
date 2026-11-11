@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/nemotron-3.5-super-vl",
+  "name": "nemotron-3.5-super-vl",
+  "creator": "nvidia",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "nvidia/nemotron-3.5-super-vl"
+  ],
+  "logo": "icons/nvidia"
+}

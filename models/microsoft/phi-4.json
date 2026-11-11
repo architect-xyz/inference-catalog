@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "microsoft/phi-4",
+  "name": "phi-4",
+  "creator": "microsoft",
+  "kind": "chat",
+  "revision": "phi-4",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 14659507200,
+    "active": 14659507200
+  },
+  "logo": "icons/microsoft"
+}

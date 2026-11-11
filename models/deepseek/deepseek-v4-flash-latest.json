@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-v4-flash-latest",
+  "name": "deepseek-v4-flash-latest",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-v4-flash-latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

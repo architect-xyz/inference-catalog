@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/z-image-turbo",
+  "name": "z-image-turbo",
+  "creator": "alibaba",
+  "kind": "image_generation",
+  "revision": "z-image-turbo",
+  "status": "APPROVED",
+  "aliases": [
+    "alibaba/z-image-turbo"
+  ],
+  "logo": "icons/qwen"
+}

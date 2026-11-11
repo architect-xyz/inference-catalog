@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "unbiased/pareto-26.9",
+  "name": "pareto-26.9",
+  "creator": "unbiased",
+  "kind": "chat",
+  "revision": "26.9",
+  "status": "APPROVED",
+  "aliases": [
+    "unbiased/pareto-26.9"
+  ],
+  "logo": "icons/huggingface"
+}

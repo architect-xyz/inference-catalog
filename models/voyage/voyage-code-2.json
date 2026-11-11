@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "voyage/voyage-code-2",
+  "name": "voyage-code-2",
+  "creator": "voyage",
+  "kind": "embedding",
+  "revision": "voyage-code-2",
+  "status": "APPROVED",
+  "aliases": [
+    "voyage-2"
+  ],
+  "logo": "icons/huggingface"
+}

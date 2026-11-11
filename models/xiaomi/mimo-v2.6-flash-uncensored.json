@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "xiaomi/mimo-v2.6-flash-uncensored",
+  "name": "mimo-v2.6-flash-uncensored",
+  "creator": "xiaomi",
+  "kind": "chat",
+  "revision": "mimo-v2.6-flash-uncensored",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/xiaomimimo"
+}

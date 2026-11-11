@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "qdrant",
+  "name": "Qdrant",
+  "description": "Buy vectors, then store and search them in a collection.",
+  "logo": "harnesses/qdrant"
+}

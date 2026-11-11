@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "veo3.1/first-last-frame-to-video",
+  "name": "first-last-frame-to-video",
+  "creator": "veo3.1",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

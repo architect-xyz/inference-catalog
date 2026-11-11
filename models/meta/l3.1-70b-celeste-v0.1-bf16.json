@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/l3.1-70b-celeste-v0.1-bf16",
+  "name": "l3.1-70b-celeste-v0.1-bf16",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "l3.1-70b-celeste-v0.1-bf16",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

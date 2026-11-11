@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/nemotron-3-ultra-550b-a55b:thinking",
+  "name": "nemotron-3-ultra-550b-a55b:thinking",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "nemotron-3-ultra-550b-a55b:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 560524578816,
+    "active": 55000000000
+  },
+  "logo": "icons/nvidia"
+}

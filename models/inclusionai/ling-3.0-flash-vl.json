@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "inclusionai/ling-3.0-flash-vl",
+  "name": "ling-3.0-flash-vl",
+  "creator": "inclusionai",
+  "kind": "chat",
+  "revision": "ling-3.0-flash-vl",
+  "status": "APPROVED",
+  "aliases": [
+    "inclusionai/ling-3.0-flash-vl"
+  ],
+  "parameters": {
+    "total": 124848460496,
+    "active": 5939942096
+  },
+  "logo": "icons/antgroup"
+}

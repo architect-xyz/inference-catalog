@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3-coder-480b-a35b-instruct-fp8",
+  "name": "qwen3-coder-480b-a35b-instruct-fp8",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3-coder-480b-a35b-instruct-fp8",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

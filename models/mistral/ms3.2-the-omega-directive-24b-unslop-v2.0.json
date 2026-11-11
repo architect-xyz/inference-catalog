@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/ms3.2-the-omega-directive-24b-unslop-v2.0",
+  "name": "ms3.2-the-omega-directive-24b-unslop-v2.0",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "ms3.2-the-omega-directive-24b-unslop-v2.0",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

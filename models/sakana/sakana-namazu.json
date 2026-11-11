@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "sakana/sakana-namazu",
+  "name": "sakana-namazu",
+  "creator": "sakana",
+  "kind": "chat",
+  "revision": "sakana-namazu",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/sakana"
+}

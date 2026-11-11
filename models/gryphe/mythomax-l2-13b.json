@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "gryphe/mythomax-l2-13b",
+  "name": "mythomax-l2-13b",
+  "creator": "gryphe",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gryphe"
+}

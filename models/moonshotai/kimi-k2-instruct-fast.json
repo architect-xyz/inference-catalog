@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "moonshotai/kimi-k2-instruct-fast",
+  "name": "kimi-k2-instruct-fast",
+  "creator": "moonshotai",
+  "kind": "chat",
+  "revision": "kimi-k2-instruct-fast",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/kimi"
+}

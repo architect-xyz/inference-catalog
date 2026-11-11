@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "ai21",
+  "name": "AI21 Labs",
+  "description": "Jamba models",
+  "type": "model-maker",
+  "logo": "providers/ai21"
+}

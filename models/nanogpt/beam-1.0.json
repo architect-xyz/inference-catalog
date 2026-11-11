@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nanogpt/beam-1.0",
+  "name": "beam-1.0",
+  "creator": "nanogpt",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

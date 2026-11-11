@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/l3.1-70b-euryale-v2.2",
+  "name": "l3.1-70b-euryale-v2.2",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "l3.1-70b-euryale-v2.2",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

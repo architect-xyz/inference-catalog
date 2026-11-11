@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "bytedance-seed/seedance-1-5-pro",
+  "name": "seedance-1-5-pro",
+  "creator": "bytedance-seed",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/bytedance"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "poolside/laguna-s-2.1",
+  "name": "laguna-s-2.1",
+  "creator": "poolside",
+  "kind": "chat",
+  "revision": "laguna-s-2.1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/poolside"
+}

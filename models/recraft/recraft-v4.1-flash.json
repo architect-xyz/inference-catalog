@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "recraft/recraft-v4.1-flash",
+  "name": "recraft-v4.1-flash",
+  "creator": "recraft",
+  "kind": "image_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/recraft"
+}

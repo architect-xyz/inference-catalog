@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/llama-4-scout-17b-instruct",
+  "name": "llama-4-scout-17b-instruct",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "llama-4-scout-17b-instruct",
+  "status": "APPROVED",
+  "aliases": [
+    "meta-llama/llama-4-scout"
+  ],
+  "logo": "icons/llama"
+}

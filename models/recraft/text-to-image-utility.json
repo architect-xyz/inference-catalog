@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "recraft/text-to-image-utility",
+  "name": "text-to-image-utility",
+  "creator": "recraft",
+  "kind": "image_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/recraft"
+}

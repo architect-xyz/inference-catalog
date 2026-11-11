@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/unslopnemo-12b-v4.1",
+  "name": "unslopnemo-12b-v4.1",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

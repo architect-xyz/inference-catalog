@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "soob3123/amoral-gemma3-27b-v2",
+  "name": "amoral-gemma3-27b-v2",
+  "creator": "soob3123",
+  "kind": "chat",
+  "revision": "amoral-gemma3-27b-v2",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

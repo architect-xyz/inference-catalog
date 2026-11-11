@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "aisingapore/qwen-sea-lion-v4-32b-it",
+  "name": "qwen-sea-lion-v4-32b-it",
+  "creator": "aisingapore",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "aisingapore/Qwen-SEA-LION-v4-32B-IT"
+  ],
+  "logo": "icons/qwen"
+}

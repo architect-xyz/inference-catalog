@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "thinkingmachines/inkling-small:thinking",
+  "name": "inkling-small:thinking",
+  "creator": "thinkingmachines",
+  "kind": "chat",
+  "revision": "inkling-small:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 265956439090,
+    "active": 1715287090
+  },
+  "logo": "icons/thinkingmachines"
+}

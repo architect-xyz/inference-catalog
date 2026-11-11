@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nanogpt/coding-router:low",
+  "name": "coding-router:low",
+  "creator": "nanogpt",
+  "kind": "chat",
+  "revision": "coding-router:low",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

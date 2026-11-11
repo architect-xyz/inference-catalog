@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "inception/mercury-coder-small",
+  "name": "mercury-coder-small",
+  "creator": "inception",
+  "kind": "chat",
+  "revision": "mercury-coder-small",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/inception"
+}

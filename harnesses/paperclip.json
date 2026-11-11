@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "paperclip",
+  "name": "Tutorials",
+  "logo": "harnesses/paperclip"
+}

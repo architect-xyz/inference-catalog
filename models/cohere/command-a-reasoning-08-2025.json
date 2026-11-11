@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "cohere/command-a-reasoning-08-2025",
+  "name": "command-a-reasoning-08-2025",
+  "creator": "cohere",
+  "kind": "chat",
+  "revision": "command-a-reasoning-08-2025",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/cohere"
+}

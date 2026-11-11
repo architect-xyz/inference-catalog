@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/muse-spark-open",
+  "name": "muse-spark-open",
+  "creator": "meta",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "meta/muse-spark-open"
+  ],
+  "parameters": {
+    "total": 822036529664,
+    "active": 42000000000
+  },
+  "logo": "icons/llama"
+}

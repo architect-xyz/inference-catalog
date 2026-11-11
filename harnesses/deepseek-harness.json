@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "deepseek-harness",
+  "name": "DeepSeek Harness",
+  "description": "DeepSeek's open-source agent harness.",
+  "logo": "harnesses/deepseek"
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/nano-banana-2",
+  "name": "nano-banana-2",
+  "creator": "google",
+  "kind": "image_generation",
+  "revision": "gemini-3.1-flash-image",
+  "status": "APPROVED",
+  "aliases": [
+    "google/gemini-3.1-flash-image"
+  ],
+  "logo": "icons/gemini"
+}

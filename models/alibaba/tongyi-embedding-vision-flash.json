@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/tongyi-embedding-vision-flash",
+  "name": "tongyi-embedding-vision-flash",
+  "creator": "alibaba",
+  "kind": "embedding",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

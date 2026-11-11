@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "swiss-ai/apertus-v1.5-8b",
+  "name": "apertus-v1.5-8b",
+  "creator": "swiss-ai",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "swiss-ai/apertus-v1.5-8b"
+  ],
+  "logo": "icons/huggingface"
+}

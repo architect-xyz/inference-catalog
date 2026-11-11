@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-5.1",
+  "name": "glm-5.1",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-5.1",
+  "status": "APPROVED",
+  "aliases": [
+    "TEE/glm-5.1",
+    "TEE/glm-5.1-thinking",
+    "z-ai/glm-5.1"
+  ],
+  "parameters": {
+    "total": 753864139008,
+    "active": 42375962880
+  },
+  "logo": "icons/zhipu"
+}

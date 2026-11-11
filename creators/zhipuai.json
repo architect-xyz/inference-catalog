@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "zhipuai",
+  "name": "Zhipu",
+  "aliases": [
+    "z-ai",
+    "zai",
+    "zai-org",
+    "zhipu"
+  ],
+  "logo": "icons/zhipu"
+}

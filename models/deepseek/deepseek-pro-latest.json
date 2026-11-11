@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-pro-latest",
+  "name": "deepseek-pro-latest",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-pro-latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "minimax/minimax-hailuo-02-pro",
+  "name": "minimax-hailuo-02-pro",
+  "creator": "minimax",
+  "kind": "video_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/minimax"
+}

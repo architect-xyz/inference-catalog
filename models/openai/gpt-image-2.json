@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/gpt-image-2",
+  "name": "gpt-image-2",
+  "creator": "openai",
+  "kind": "image_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

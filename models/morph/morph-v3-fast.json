@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "morph/morph-v3-fast",
+  "name": "morph-v3-fast",
+  "creator": "morph",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/morph"
+}

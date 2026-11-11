@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "t3-code",
+  "name": "T3 Code",
+  "logo": "harnesses/t3-code"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/mistral-nemo-instruct-2407",
+  "name": "mistral-nemo-instruct-2407",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "mistral-nemo-instruct-2407",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

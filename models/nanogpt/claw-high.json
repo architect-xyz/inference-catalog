@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nanogpt/claw-high",
+  "name": "claw-high",
+  "creator": "nanogpt",
+  "kind": "chat",
+  "revision": "claw-high",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

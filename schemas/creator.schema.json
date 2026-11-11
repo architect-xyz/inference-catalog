@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Creator",
+  "description": "A company or lab that makes models.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "aliases", "logo"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]*$", "description": "The one canonical id. Lowercase." },
+    "name": { "type": "string", "minLength": 1, "description": "The name as the company writes it." },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string", "pattern": "^[a-z0-9][a-z0-9._-]*$" },
+      "uniqueItems": true,
+      "description": "Other ids that providers and model lists use for the same company."
+    },
+    "logo": { "$ref": "logo.schema.json#/$defs/ref" }
+  }
+}

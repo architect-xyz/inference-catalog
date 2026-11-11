@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "stabilityai/fast-sdxl",
+  "name": "fast-sdxl",
+  "creator": "stabilityai",
+  "kind": "image_generation",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/stability"
+}

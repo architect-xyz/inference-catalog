@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "ai21",
+  "name": "AI21 Labs",
+  "aliases": [],
+  "logo": "icons/ai21"
+}

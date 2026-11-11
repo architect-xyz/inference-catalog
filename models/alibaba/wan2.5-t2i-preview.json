@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/wan2.5-t2i-preview",
+  "name": "wan2.5-t2i-preview",
+  "creator": "alibaba",
+  "kind": "image_generation",
+  "revision": "wan2.5-t2i-preview",
+  "status": "APPROVED",
+  "aliases": [
+    "alibaba/wan2.5-t2i-preview"
+  ],
+  "logo": "icons/qwen"
+}

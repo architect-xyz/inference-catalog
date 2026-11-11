@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemini-3-pro-image-preview",
+  "name": "gemini-3-pro-image-preview",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemini-3-pro-image-preview",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

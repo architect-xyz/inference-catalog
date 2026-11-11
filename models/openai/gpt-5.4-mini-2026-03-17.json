@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/gpt-5.4-mini-2026-03-17",
+  "name": "gpt-5.4-mini-2026-03-17",
+  "creator": "openai",
+  "kind": "chat",
+  "revision": "gpt-5.4-mini-2026-03-17",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

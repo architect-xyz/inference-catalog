@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/gpt-luna-latest",
+  "name": "gpt-luna-latest",
+  "creator": "openai",
+  "kind": "chat",
+  "revision": "gpt-luna-latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

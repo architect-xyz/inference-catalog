@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/nemomix-unleashed-12b",
+  "name": "nemomix-unleashed-12b",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "nemomix-unleashed-12b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

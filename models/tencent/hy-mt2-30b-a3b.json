@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "tencent/hy-mt2-30b-a3b",
+  "name": "hy-mt2-30b-a3b",
+  "creator": "tencent",
+  "kind": "chat",
+  "revision": "hy-mt2-30b-a3b",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 30064725888,
+    "active": 3000000000
+  },
+  "logo": "icons/hunyuan"
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "inclusionai/ling-3.1-flash",
+  "name": "ling-3.1-flash",
+  "creator": "inclusionai",
+  "kind": "chat",
+  "revision": "ling-3.1-flash",
+  "status": "APPROVED",
+  "aliases": [
+    "inclusionai/ling-3.1-flash"
+  ],
+  "logo": "icons/antgroup"
+}

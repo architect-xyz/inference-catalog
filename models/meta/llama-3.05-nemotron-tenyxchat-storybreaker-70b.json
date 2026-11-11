@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/llama-3.05-nemotron-tenyxchat-storybreaker-70b",
+  "name": "llama-3.05-nemotron-tenyxchat-storybreaker-70b",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "llama-3.05-nemotron-tenyxchat-storybreaker-70b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "vita-epfl/svi-2-0-pro",
+  "name": "svi-2-0-pro",
+  "creator": "vita-epfl",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

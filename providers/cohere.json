@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "cohere",
+  "name": "Cohere",
+  "description": "Command, Embed and Rerank",
+  "type": "model-maker",
+  "logo": "providers/cohere"
+}

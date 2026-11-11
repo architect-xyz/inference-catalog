@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/pixtral-12b-2409",
+  "name": "pixtral-12b-2409",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "pixtral-12b-2409",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

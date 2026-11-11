@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/gpt-6.1-terra-pro",
+  "name": "gpt-6.1-terra-pro",
+  "creator": "openai",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

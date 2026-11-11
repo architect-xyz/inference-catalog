@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "lightricks/ltxv-2",
+  "name": "ltxv-2",
+  "creator": "lightricks",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/lightricks"
+}

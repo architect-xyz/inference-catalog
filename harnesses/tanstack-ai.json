@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "tanstack-ai",
+  "name": "TanStack AI",
+  "logo": "harnesses/tanstack-ai"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/llama-xlam-2-70b-fc-r",
+  "name": "llama-xlam-2-70b-fc-r",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "llama-xlam-2-70b-fc-r",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

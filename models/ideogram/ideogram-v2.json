@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "ideogram/ideogram-v2",
+  "name": "ideogram-v2",
+  "creator": "ideogram",
+  "kind": "image_generation",
+  "revision": "ideogram-v2",
+  "status": "APPROVED",
+  "aliases": [
+    "ideogram/ideogram-v2"
+  ],
+  "logo": "icons/ideogram"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zro/dolly1-security-private",
+  "name": "dolly1-security-private",
+  "creator": "zro",
+  "kind": "chat",
+  "revision": "dolly1-security-private",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

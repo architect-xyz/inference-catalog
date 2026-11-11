@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "elevenlabs/eleven_v3",
+  "name": "eleven_v3",
+  "creator": "elevenlabs",
+  "kind": "audio_speech",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/elevenlabs"
+}

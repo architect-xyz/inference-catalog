@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3-coder-flash",
+  "name": "qwen3-coder-flash",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3-coder-flash",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nanogpt/hermes-high",
+  "name": "hermes-high",
+  "creator": "nanogpt",
+  "kind": "chat",
+  "revision": "hermes-high",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

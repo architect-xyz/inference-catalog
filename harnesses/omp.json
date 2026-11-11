@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "omp",
+  "name": "Oh My Pi",
+  "description": "A terminal agent with native model discovery.",
+  "logo": "harnesses/omp"
+}

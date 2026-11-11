@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-dark-thoughts-v2-31b",
+  "name": "gemma-4-dark-thoughts-v2-31b",
+  "creator": "google",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/muse-spark-open-816b-a42b:baseten",
+  "name": "muse-spark-open-816b-a42b:baseten",
+  "creator": "meta",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "meta-models/Muse-Spark-Open-816B-A42B:baseten"
+  ],
+  "logo": "icons/llama"
+}

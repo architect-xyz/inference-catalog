@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "jetbrains-ai",
+  "name": "JetBrains AI",
+  "logo": "harnesses/jetbrains-ai"
+}

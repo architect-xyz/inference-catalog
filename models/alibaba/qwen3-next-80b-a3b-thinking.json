@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3-next-80b-a3b-thinking",
+  "name": "qwen3-next-80b-a3b-thinking",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3-next-80b-a3b-thinking",
+  "status": "APPROVED",
+  "aliases": [
+    "qwen/qwen3-next-80b-a3b-thinking"
+  ],
+  "parameters": {
+    "total": 81324862720,
+    "active": 3000000000
+  },
+  "logo": "icons/qwen"
+}

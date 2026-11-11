@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-it:thinking",
+  "name": "gemma-4-31b-it:thinking",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-it:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 31273088876,
+    "active": 31273088876
+  },
+  "logo": "icons/gemma"
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "hidream/hidream-i1-full",
+  "name": "hidream-i1-full",
+  "creator": "hidream",
+  "kind": "image_generation",
+  "revision": "hidream-i1-full",
+  "status": "APPROVED",
+  "aliases": [
+    "hidream/hidream-i1-full"
+  ],
+  "logo": "icons/hidream"
+}

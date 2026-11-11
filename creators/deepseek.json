@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "deepseek",
+  "name": "DeepSeek",
+  "aliases": [
+    "deepseek-ai"
+  ],
+  "logo": "icons/deepseek"
+}

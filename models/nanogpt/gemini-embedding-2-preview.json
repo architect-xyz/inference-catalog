@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nanogpt/gemini-embedding-2-preview",
+  "name": "gemini-embedding-2-preview",
+  "creator": "nanogpt",
+  "kind": "embedding",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

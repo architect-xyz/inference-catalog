@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "tencent/hunyuan-image-3",
+  "name": "hunyuan-image-3",
+  "creator": "tencent",
+  "kind": "image_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/hunyuan"
+}

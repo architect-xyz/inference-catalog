@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "ltxv-2/text-to-video",
+  "name": "text-to-video",
+  "creator": "ltxv-2",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

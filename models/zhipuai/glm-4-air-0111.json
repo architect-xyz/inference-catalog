@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-4-air-0111",
+  "name": "glm-4-air-0111",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-4-air-0111",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/zhipu"
+}

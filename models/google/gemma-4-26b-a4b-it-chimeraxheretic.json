@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-26b-a4b-it-chimeraxheretic",
+  "name": "gemma-4-26b-a4b-it-chimeraxheretic",
+  "creator": "google",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

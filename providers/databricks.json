@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "databricks",
+  "name": "Databricks",
+  "description": "Models served from your Databricks workspace",
+  "type": "cloud-platform",
+  "logo": "providers/databricks"
+}

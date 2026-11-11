@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen-audio-3-0-tts",
+  "name": "qwen-audio-3-0-tts",
+  "creator": "alibaba",
+  "kind": "audio_speech",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

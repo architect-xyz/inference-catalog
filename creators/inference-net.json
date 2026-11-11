@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "inference-net",
+  "name": "Inference-net",
+  "aliases": [],
+  "logo": null
+}

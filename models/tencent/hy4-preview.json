@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "tencent/hy4-preview",
+  "name": "hy4-preview",
+  "creator": "tencent",
+  "kind": "chat",
+  "revision": "hy4-preview",
+  "status": "APPROVED",
+  "aliases": [
+    "tencent/hy4-preview"
+  ],
+  "parameters": {
+    "total": 779960992733,
+    "active": 40387757021
+  },
+  "logo": "icons/hunyuan"
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "inception",
+  "name": "Inception",
+  "aliases": [],
+  "logo": "icons/inception"
+}

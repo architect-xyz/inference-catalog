@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "goose",
+  "name": "Goose",
+  "description": "An agent for the terminal and desktop.",
+  "logo": "harnesses/goose"
+}

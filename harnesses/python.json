@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "python",
+  "name": "Python",
+  "logo": "harnesses/python"
+}

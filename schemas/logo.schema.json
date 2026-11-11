@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Logo reference",
+  "$defs": {
+    "ref": {
+      "description": "`<namespace>/<id>`, for the file `logos/<namespace>/<id>.<ext>`. Null when the catalog has no logo.",
+      "type": ["string", "null"],
+      "pattern": "^(icons|providers|harnesses)/[A-Za-z0-9][A-Za-z0-9._-]*$"
+    }
+  }
+}

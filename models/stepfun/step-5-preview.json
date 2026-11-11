@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "stepfun/step-5-preview",
+  "name": "step-5-preview",
+  "creator": "stepfun",
+  "kind": "chat",
+  "revision": "step-5-preview",
+  "status": "APPROVED",
+  "aliases": [
+    "stepfun/step-5-preview"
+  ],
+  "parameters": {
+    "total": 604339504832,
+    "active": 604339504832
+  },
+  "logo": "icons/stepfun"
+}

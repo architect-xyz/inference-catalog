@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "minimax",
+  "name": "MiniMax",
+  "aliases": [
+    "minimaxai"
+  ],
+  "logo": "icons/minimax"
+}

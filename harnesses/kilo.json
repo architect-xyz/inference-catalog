@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "kilo",
+  "name": "Kilo Code",
+  "description": "A VS Code agent.",
+  "logo": "harnesses/kilocode"
+}

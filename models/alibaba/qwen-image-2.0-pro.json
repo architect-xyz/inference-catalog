@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen-image-2.0-pro",
+  "name": "qwen-image-2.0-pro",
+  "creator": "alibaba",
+  "kind": "image_generation",
+  "revision": "qwen-image-2.0-pro",
+  "status": "APPROVED",
+  "aliases": [
+    "alibaba/qwen-image-2.0-pro"
+  ],
+  "logo": "icons/qwen"
+}

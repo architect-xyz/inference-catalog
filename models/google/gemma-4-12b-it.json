@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-12b-it",
+  "name": "gemma-4-12b-it",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-12b-it",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 11959730224,
+    "active": 11959730224
+  },
+  "logo": "icons/gemma"
+}

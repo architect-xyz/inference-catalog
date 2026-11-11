@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "cohere/command-a",
+  "name": "command-a",
+  "creator": "cohere",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 111057580032,
+    "active": 111057580032
+  },
+  "logo": "icons/cohere"
+}

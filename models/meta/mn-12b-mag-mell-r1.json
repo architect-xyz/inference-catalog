@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/mn-12b-mag-mell-r1",
+  "name": "mn-12b-mag-mell-r1",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "mn-12b-mag-mell-r1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/mistral-saba",
+  "name": "mistral-saba",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "mistral-saba",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

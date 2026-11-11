@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/openreasoning-nemotron-32b",
+  "name": "openreasoning-nemotron-32b",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "openreasoning-nemotron-32b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/nvidia"
+}

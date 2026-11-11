@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/gpt-audio-mini",
+  "name": "gpt-audio-mini",
+  "creator": "openai",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

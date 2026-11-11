@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "reka/reka-edge-2603",
+  "name": "reka-edge-2603",
+  "creator": "reka",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "reka/reka-edge-2603"
+  ],
+  "logo": "icons/huggingface"
+}

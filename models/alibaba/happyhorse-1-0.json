@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/happyhorse-1-0",
+  "name": "happyhorse-1-0",
+  "creator": "alibaba",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

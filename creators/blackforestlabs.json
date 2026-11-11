@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "blackforestlabs",
+  "name": "Black Forest Labs",
+  "aliases": [
+    "black-forest-labs"
+  ],
+  "logo": "icons/bfl"
+}

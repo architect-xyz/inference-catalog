@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "xai/grok-imagine-image-2-0",
+  "name": "grok-imagine-image-2-0",
+  "creator": "xai",
+  "kind": "image_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/grok"
+}

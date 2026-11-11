@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.5-27b-bluestar-v3-derestricted",
+  "name": "qwen3.5-27b-bluestar-v3-derestricted",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3.5-27b-bluestar-v3-derestricted",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

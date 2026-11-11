@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "cloudflare",
+  "name": "Cloudflare Workers AI",
+  "description": "Open models on Cloudflare\u2019s network",
+  "type": "cloud-platform",
+  "logo": "providers/cloudflare"
+}

@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "azure-openai",
+  "name": "Azure OpenAI",
+  "description": "GPT models through your Azure deployment",
+  "type": "cloud-platform",
+  "logo": "providers/azure-openai"
+}

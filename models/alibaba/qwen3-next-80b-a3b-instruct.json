@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3-next-80b-a3b-instruct",
+  "name": "qwen3-next-80b-a3b-instruct",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3-next-80b-a3b-instruct",
+  "status": "APPROVED",
+  "aliases": [
+    "qwen/qwen3-next-80b-a3b-instruct"
+  ],
+  "parameters": {
+    "total": 81324862720,
+    "active": 3000000000
+  },
+  "logo": "icons/qwen"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "minimax/m2-7-highspeed",
+  "name": "m2-7-highspeed",
+  "creator": "minimax",
+  "kind": "chat",
+  "revision": "m2-7-highspeed",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/minimax"
+}

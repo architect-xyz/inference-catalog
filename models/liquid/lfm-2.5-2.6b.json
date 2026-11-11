@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "liquid/lfm-2.5-2.6b",
+  "name": "lfm-2.5-2.6b",
+  "creator": "liquid",
+  "kind": "chat",
+  "revision": "lfm-2.5-2.6b",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 2697198592,
+    "active": 2697198592
+  },
+  "logo": "icons/liquid"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/diffusiongemma-26b-a4b-it",
+  "name": "diffusiongemma-26b-a4b-it",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "diffusiongemma-26b-a4b-it",
+  "status": "APPROVED",
+  "aliases": [
+    "google/diffusiongemma"
+  ],
+  "parameters": {
+    "total": 25823778864,
+    "active": 4000000000
+  },
+  "logo": "icons/gemini"
+}

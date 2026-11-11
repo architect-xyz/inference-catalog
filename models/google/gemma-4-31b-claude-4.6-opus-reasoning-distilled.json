@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-claude-4.6-opus-reasoning-distilled",
+  "name": "gemma-4-31b-claude-4.6-opus-reasoning-distilled",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-claude-4.6-opus-reasoning-distilled",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

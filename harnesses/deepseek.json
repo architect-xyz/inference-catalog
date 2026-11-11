@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "deepseek",
+  "name": "MCP servers",
+  "logo": "harnesses/deepseek"
+}

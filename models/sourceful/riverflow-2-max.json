@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "sourceful/riverflow-2-max",
+  "name": "riverflow-2-max",
+  "creator": "sourceful",
+  "kind": "image_generation",
+  "revision": "riverflow-2-max",
+  "status": "APPROVED",
+  "aliases": [
+    "sourceful/riverflow-2-max"
+  ],
+  "logo": "icons/huggingface"
+}

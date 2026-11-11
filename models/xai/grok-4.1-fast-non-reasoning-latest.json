@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "xai/grok-4.1-fast-non-reasoning-latest",
+  "name": "grok-4.1-fast-non-reasoning-latest",
+  "creator": "xai",
+  "kind": "chat",
+  "revision": "grok-4.1-fast-non-reasoning-latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/grok"
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "opencode",
+  "name": "OpenCode",
+  "description": "A terminal agent with pluggable providers.",
+  "logo": "harnesses/opencode"
+}

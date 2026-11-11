@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "k2/k2-think",
+  "name": "k2-think",
+  "creator": "k2",
+  "kind": "chat",
+  "revision": "k2-think",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

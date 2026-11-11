@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3-vl-235b-a22b-thinking",
+  "name": "qwen3-vl-235b-a22b-thinking",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3-vl-235b-a22b-thinking",
+  "status": "APPROVED",
+  "aliases": [
+    "qwen/qwen3-vl-235b-a22b-thinking"
+  ],
+  "parameters": {
+    "total": 235670022896,
+    "active": 22000000000
+  },
+  "logo": "icons/qwen"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/openai/tts-1",
+  "name": "openai/tts-1",
+  "creator": "openai",
+  "kind": "audio_speech",
+  "revision": "tts-1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-image",
+  "name": "glm-image",
+  "creator": "zhipuai",
+  "kind": "image_generation",
+  "revision": "glm-image",
+  "status": "APPROVED",
+  "aliases": [
+    "zhipu/glm-image"
+  ],
+  "logo": "icons/zhipu"
+}

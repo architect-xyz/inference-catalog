@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "moonshotai/kimi-k2.7-code",
+  "name": "kimi-k2.7-code",
+  "creator": "moonshotai",
+  "kind": "chat",
+  "revision": "kimi-k2-7-code",
+  "status": "APPROVED",
+  "aliases": [
+    "kimi-k2-7-code",
+    "moonshotai/kimi-k2.7-code",
+    "TEE/kimi-k2.7-code"
+  ],
+  "parameters": {
+    "total": 1026879376368,
+    "active": 33332644848
+  },
+  "logo": "icons/kimi"
+}

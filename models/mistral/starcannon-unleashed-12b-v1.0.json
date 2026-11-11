@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/starcannon-unleashed-12b-v1.0",
+  "name": "starcannon-unleashed-12b-v1.0",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "starcannon-unleashed-12b-v1.0",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

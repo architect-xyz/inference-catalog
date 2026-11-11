@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/tongyi-embedding-vision-plus",
+  "name": "tongyi-embedding-vision-plus",
+  "creator": "alibaba",
+  "kind": "embedding",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

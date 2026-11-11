@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "factory-droid",
+  "name": "Factory Droid",
+  "description": "The coding agent of Factory.",
+  "logo": "harnesses/factory-droid"
+}

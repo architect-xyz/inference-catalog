@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "anthropic",
+  "name": "Anthropic API",
+  "logo": "harnesses/anthropic"
+}

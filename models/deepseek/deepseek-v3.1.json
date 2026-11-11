@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-v3.1",
+  "name": "deepseek-v3.1",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-v3.1",
+  "status": "APPROVED",
+  "aliases": [
+    "deepseek-ai/DeepSeek-V3.1"
+  ],
+  "parameters": {
+    "total": 684531386000,
+    "active": 40135296656
+  },
+  "logo": "icons/deepseek"
+}

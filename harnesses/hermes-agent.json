@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "hermes-agent",
+  "name": "Hermes Agent",
+  "description": "A terminal agent with a cap on each model request.",
+  "logo": "harnesses/hermesagent"
+}

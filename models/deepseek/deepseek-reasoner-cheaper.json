@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-reasoner-cheaper",
+  "name": "deepseek-reasoner-cheaper",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-reasoner-cheaper",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/devstral-2512",
+  "name": "devstral-2512",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [
+    "mistralai/devstral-2-123b-instruct-2512"
+  ],
+  "parameters": {
+    "total": 125025988608,
+    "active": 125025988608
+  },
+  "logo": "icons/mistral"
+}

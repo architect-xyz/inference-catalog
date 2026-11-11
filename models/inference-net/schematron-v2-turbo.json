@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "inference-net/schematron-v2-turbo",
+  "name": "schematron-v2-turbo",
+  "creator": "inference-net",
+  "kind": "chat",
+  "revision": "schematron-v2-turbo",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/inference"
+}

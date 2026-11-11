@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/voxtral-mini-transcribe-3.0",
+  "name": "voxtral-mini-transcribe-3.0",
+  "creator": "mistral",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

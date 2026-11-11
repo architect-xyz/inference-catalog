@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "pruna",
+  "name": "Pruna AI",
+  "aliases": [
+    "pruna-ai"
+  ],
+  "logo": "icons/prunaai"
+}

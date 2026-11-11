@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "mistral",
+  "name": "Mistral AI",
+  "description": "Mistral and Codestral through La Plateforme",
+  "type": "model-maker",
+  "logo": "providers/mistral"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/gpt-4.1-nano",
+  "name": "gpt-4.1-nano",
+  "creator": "openai",
+  "kind": "chat",
+  "revision": "gpt-4.1-nano",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

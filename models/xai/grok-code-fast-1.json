@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "xai/grok-code-fast-1",
+  "name": "grok-code-fast-1",
+  "creator": "xai",
+  "kind": "chat",
+  "revision": "grok-code-fast-1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/grok"
+}

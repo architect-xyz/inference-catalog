@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemini-2.5-flash-nothinking",
+  "name": "gemini-2.5-flash-nothinking",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemini-2.5-flash-nothinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

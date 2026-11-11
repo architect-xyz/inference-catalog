@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "lambda",
+  "name": "Lambda",
+  "description": "Open models on Lambda Inference",
+  "type": "inference-cloud",
+  "logo": "providers/lambda"
+}

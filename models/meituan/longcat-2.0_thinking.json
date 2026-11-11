@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meituan/longcat-2.0:thinking",
+  "name": "longcat-2.0:thinking",
+  "creator": "meituan",
+  "kind": "chat",
+  "revision": "longcat-2.0:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/longcat"
+}

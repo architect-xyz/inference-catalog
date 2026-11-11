@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "venice/venice-uncensored",
+  "name": "venice-uncensored",
+  "creator": "venice",
+  "kind": "chat",
+  "revision": "venice-uncensored",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/venice"
+}

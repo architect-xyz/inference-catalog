@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/dracarys-72b-instruct",
+  "name": "dracarys-72b-instruct",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "dracarys-72b-instruct",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

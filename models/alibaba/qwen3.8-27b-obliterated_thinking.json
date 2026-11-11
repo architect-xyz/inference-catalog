@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.8-27b-obliterated:thinking",
+  "name": "qwen3.8-27b-obliterated:thinking",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3.8-27b-obliterated:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

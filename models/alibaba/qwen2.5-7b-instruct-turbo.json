@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen2.5-7b-instruct-turbo",
+  "name": "qwen2.5-7b-instruct-turbo",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen2.5-7b-instruct-turbo",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

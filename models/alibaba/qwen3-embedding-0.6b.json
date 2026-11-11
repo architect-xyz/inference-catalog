@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3-embedding-0.6b",
+  "name": "qwen3-embedding-0.6b",
+  "creator": "alibaba",
+  "kind": "embedding",
+  "revision": "qwen3-embedding-0.6b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

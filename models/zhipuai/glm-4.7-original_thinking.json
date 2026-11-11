@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-4.7-original:thinking",
+  "name": "glm-4.7-original:thinking",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-4.7-original:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/zhipu"
+}

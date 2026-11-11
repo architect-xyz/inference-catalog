@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/llama-guard-4-12b",
+  "name": "llama-guard-4-12b",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "llama-guard-4-12b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

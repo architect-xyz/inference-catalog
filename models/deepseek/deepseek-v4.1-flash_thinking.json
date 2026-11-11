@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-v4.1-flash:thinking",
+  "name": "deepseek-v4.1-flash:thinking",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-v4.1-flash:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 763205315794,
+    "active": 187985358034
+  },
+  "logo": "icons/deepseek"
+}

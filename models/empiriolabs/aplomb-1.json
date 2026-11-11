@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "empiriolabs/aplomb-1",
+  "name": "aplomb-1",
+  "creator": "empiriolabs",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

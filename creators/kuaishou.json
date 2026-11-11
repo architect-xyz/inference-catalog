@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "kuaishou",
+  "name": "Kuaishou",
+  "aliases": [],
+  "logo": "icons/kling"
+}

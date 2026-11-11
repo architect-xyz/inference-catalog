@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/llama-3.3-70b-instruct-abliterated",
+  "name": "llama-3.3-70b-instruct-abliterated",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "llama-3.3-70b-instruct-abliterated",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

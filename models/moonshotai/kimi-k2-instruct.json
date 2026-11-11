@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "moonshotai/kimi-k2-instruct",
+  "name": "kimi-k2-instruct",
+  "creator": "moonshotai",
+  "kind": "chat",
+  "revision": "kimi-k2-instruct",
+  "status": "APPROVED",
+  "aliases": [
+    "moonshotai/kimi-k2-instruct",
+    "moonshotai/kimi-k2-instruct-0711"
+  ],
+  "parameters": {
+    "total": 1026408235864,
+    "active": 32861504344
+  },
+  "logo": "icons/kimi"
+}

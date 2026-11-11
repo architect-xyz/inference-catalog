@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/gpt-oss-20b",
+  "name": "gpt-oss-20b",
+  "creator": "openai",
+  "kind": "chat",
+  "revision": "gpt-oss-20b",
+  "status": "APPROVED",
+  "aliases": [
+    "openai/gpt-oss-20b"
+  ],
+  "parameters": {
+    "total": 20914757184,
+    "active": 4193246784
+  },
+  "logo": "icons/openai"
+}

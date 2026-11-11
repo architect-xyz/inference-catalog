@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "sakana/fugu-ultra-v2",
+  "name": "fugu-ultra-v2",
+  "creator": "sakana",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/sakana"
+}

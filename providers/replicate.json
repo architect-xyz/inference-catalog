@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "replicate",
+  "name": "Replicate",
+  "description": "Open models run through Replicate",
+  "type": "inference-cloud",
+  "logo": "providers/replicate"
+}

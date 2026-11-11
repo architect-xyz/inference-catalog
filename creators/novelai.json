@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "novelai",
+  "name": "NovelAI",
+  "aliases": [],
+  "logo": "icons/novelai"
+}

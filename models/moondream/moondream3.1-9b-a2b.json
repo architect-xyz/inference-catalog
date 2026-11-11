@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "moondream/moondream3.1-9b-a2b",
+  "name": "moondream3.1-9b-a2b",
+  "creator": "moondream",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "moondream/moondream3.1-9b-a2b"
+  ],
+  "parameters": {
+    "total": 9273869808,
+    "active": 2000000000
+  },
+  "logo": "icons/huggingface"
+}

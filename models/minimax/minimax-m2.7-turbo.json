@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "minimax/minimax-m2.7-turbo",
+  "name": "minimax-m2.7-turbo",
+  "creator": "minimax",
+  "kind": "chat",
+  "revision": "minimax-m2.7-turbo",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/minimax"
+}

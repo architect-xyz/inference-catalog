@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen2.5-coder-32b-instruct",
+  "name": "qwen2.5-coder-32b-instruct",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen2.5-coder-32b-instruct",
+  "status": "APPROVED",
+  "aliases": [
+    "qwen/qwen2.5-coder-32b-instruct"
+  ],
+  "parameters": {
+    "total": 32763876352,
+    "active": 32763876352
+  },
+  "logo": "icons/qwen"
+}

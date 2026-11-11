@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "huggingface",
+  "name": "Hugging Face",
+  "description": "Inference Endpoints and Inference Providers",
+  "type": "cloud-platform",
+  "logo": "providers/huggingface"
+}

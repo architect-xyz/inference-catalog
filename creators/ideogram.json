@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "ideogram",
+  "name": "Ideogram",
+  "aliases": [
+    "ideogram-ai"
+  ],
+  "logo": "icons/ideogram"
+}

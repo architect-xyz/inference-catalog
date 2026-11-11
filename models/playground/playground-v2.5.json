@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "playground/playground-v2.5",
+  "name": "playground-v2.5",
+  "creator": "playground",
+  "kind": "image_generation",
+  "revision": "playground-v2.5",
+  "status": "APPROVED",
+  "aliases": [
+    "playground/playground-v2.5",
+    "playground-v25"
+  ],
+  "logo": "icons/playground"
+}

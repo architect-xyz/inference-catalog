@@ -1,0 +1,10 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "stabilityai",
+  "name": "Stability AI",
+  "aliases": [
+    "stability",
+    "stability-ai"
+  ],
+  "logo": "icons/stability"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "baidu/ernie-5.1:thinking",
+  "name": "ernie-5.1:thinking",
+  "creator": "baidu",
+  "kind": "chat",
+  "revision": "ernie-5.1:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/baidu"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "other/space-bunny-alpha",
+  "name": "space-bunny-alpha",
+  "creator": "other",
+  "kind": "chat",
+  "revision": "space-bunny-alpha",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

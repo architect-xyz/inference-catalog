@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "pixverse",
+  "name": "PixVerse",
+  "aliases": [],
+  "logo": "icons/pixverse"
+}

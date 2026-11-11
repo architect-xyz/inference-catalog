@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "comfyui",
+  "name": "ComfyUI",
+  "description": "Buy images in a ComfyUI workflow with the Liquid Image node.",
+  "logo": "harnesses/comfyui"
+}

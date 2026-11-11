@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "speakleash/bielik-11b-v3.0-instruct",
+  "name": "bielik-11b-v3.0-instruct",
+  "creator": "speakleash",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "speakleash/Bielik-11B-v3.0-Instruct"
+  ],
+  "logo": "icons/huggingface"
+}

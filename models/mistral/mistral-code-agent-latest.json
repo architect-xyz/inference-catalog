@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/mistral-code-agent-latest",
+  "name": "mistral-code-agent-latest",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "mistral-code-agent-latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

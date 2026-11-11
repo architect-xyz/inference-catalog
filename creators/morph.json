@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "morph",
+  "name": "Morph",
+  "aliases": [],
+  "logo": "icons/morph"
+}

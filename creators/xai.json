@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "xai",
+  "name": "xAI",
+  "aliases": [
+    "x-ai"
+  ],
+  "logo": "icons/grok"
+}

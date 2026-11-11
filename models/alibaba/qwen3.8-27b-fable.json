@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.8-27b-fable",
+  "name": "qwen3.8-27b-fable",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3.8-27b-fable",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "roo",
+  "name": "Roo Code",
+  "description": "A VS Code agent with per-mode models.",
+  "logo": "harnesses/roocode"
+}

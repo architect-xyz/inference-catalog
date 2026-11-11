@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "pokee/pokee-isaac",
+  "name": "pokee-isaac",
+  "creator": "pokee",
+  "kind": "chat",
+  "revision": "pokee-isaac",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

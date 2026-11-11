@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/mixtral-8x22b-instruct",
+  "name": "mixtral-8x22b-instruct",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [
+    "mistralai/mixtral-8x22b-instruct-v0.1"
+  ],
+  "parameters": {
+    "total": 140630071296,
+    "active": 39161468928
+  },
+  "logo": "icons/mistral"
+}

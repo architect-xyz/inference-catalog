@@ -1,0 +1,9 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "recraft",
+  "name": "Recraft",
+  "aliases": [
+    "recraft-ai"
+  ],
+  "logo": "icons/recraft"
+}

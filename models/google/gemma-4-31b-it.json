@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-it",
+  "name": "gemma-4-31b-it",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-it",
+  "status": "APPROVED",
+  "aliases": [
+    "google/gemma-4-31b-it",
+    "TEE/gemma4-31b",
+    "TEE/gemma-4-31b-it"
+  ],
+  "parameters": {
+    "total": 31273088876,
+    "active": 31273088876
+  },
+  "logo": "icons/gemma"
+}

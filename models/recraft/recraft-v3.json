@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "recraft/recraft-v3",
+  "name": "recraft-v3",
+  "creator": "recraft",
+  "kind": "image_generation",
+  "revision": "recraft-v3",
+  "status": "APPROVED",
+  "aliases": [
+    "recraft/recraft-v3"
+  ],
+  "logo": "icons/recraft"
+}

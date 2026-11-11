@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "reason",
+  "name": "Reason",
+  "description": "A hosted coding agent that runs its tools on your computer.",
+  "logo": "harnesses/reason"
+}

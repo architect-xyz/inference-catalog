@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "empiriolabs/aplomb-1-decision",
+  "name": "aplomb-1-decision",
+  "creator": "empiriolabs",
+  "kind": "decision",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

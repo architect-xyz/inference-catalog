@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3-5-omni-flash",
+  "name": "qwen3-5-omni-flash",
+  "creator": "alibaba",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [
+    "qwen3.5-omni-flash"
+  ],
+  "logo": "icons/qwen"
+}

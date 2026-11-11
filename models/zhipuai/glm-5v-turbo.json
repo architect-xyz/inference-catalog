@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-5v-turbo",
+  "name": "glm-5v-turbo",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-5v-turbo",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/zhipu"
+}

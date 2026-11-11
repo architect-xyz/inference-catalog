@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.7-flash:thinking",
+  "name": "qwen3.7-flash:thinking",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3.7-flash:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

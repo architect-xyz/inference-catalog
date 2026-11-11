@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "dify",
+  "name": "Dify",
+  "description": "Build LLM apps and workflows, using a model provider plugin.",
+  "logo": "harnesses/dify"
+}

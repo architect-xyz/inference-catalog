@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "internlm",
+  "name": "InternLM",
+  "aliases": [],
+  "logo": "icons/internlm"
+}

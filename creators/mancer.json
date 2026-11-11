@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "mancer",
+  "name": "Mancer",
+  "aliases": [],
+  "logo": null
+}

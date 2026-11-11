@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "perplexity/sonar",
+  "name": "sonar",
+  "creator": "perplexity",
+  "kind": "chat",
+  "revision": "sonar",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/perplexity"
+}

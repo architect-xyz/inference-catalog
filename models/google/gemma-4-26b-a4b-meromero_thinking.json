@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-26b-a4b-meromero:thinking",
+  "name": "gemma-4-26b-a4b-meromero:thinking",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-26b-a4b-meromero:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

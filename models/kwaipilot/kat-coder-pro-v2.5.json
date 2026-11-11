@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "kwaipilot/kat-coder-pro-v2.5",
+  "name": "kat-coder-pro-v2.5",
+  "creator": "kwaipilot",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/kwaipilot"
+}

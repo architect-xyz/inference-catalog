@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "lucidity/synth-2.5-flash",
+  "name": "synth-2.5-flash",
+  "creator": "lucidity",
+  "kind": "chat",
+  "revision": "synth-2.5-flash",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/lucidity"
+}

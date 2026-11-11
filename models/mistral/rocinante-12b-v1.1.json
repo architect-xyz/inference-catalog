@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/rocinante-12b-v1.1",
+  "name": "rocinante-12b-v1.1",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "rocinante-12b-v1.1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

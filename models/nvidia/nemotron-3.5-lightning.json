@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/nemotron-3.5-lightning",
+  "name": "nemotron-3.5-lightning",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "nemotron-3.5-lightning",
+  "status": "APPROVED",
+  "aliases": [
+    "nvidia/nemotron-3.5-lightning",
+    "TEE/nemotron-3.5-lightning"
+  ],
+  "parameters": {
+    "total": 31577937344,
+    "active": 3000000000
+  },
+  "logo": "icons/nvidia"
+}

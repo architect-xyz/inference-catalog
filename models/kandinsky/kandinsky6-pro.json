@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "kandinsky/kandinsky6-pro",
+  "name": "kandinsky6-pro",
+  "creator": "kandinsky",
+  "kind": "video_generation",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

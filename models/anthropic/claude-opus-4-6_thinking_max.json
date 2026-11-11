@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "anthropic/claude-opus-4-6:thinking:max",
+  "name": "claude-opus-4-6:thinking:max",
+  "creator": "anthropic",
+  "kind": "chat",
+  "revision": "claude-opus-4.6:thinking:max",
+  "status": "APPROVED",
+  "aliases": [
+    "claude-opus-4.6:thinking:max"
+  ],
+  "logo": "icons/claude"
+}

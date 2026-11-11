@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "rikkahub",
+  "name": "RikkaHub",
+  "description": "An Android chat app, with a custom provider.",
+  "logo": "harnesses/rikkahub"
+}

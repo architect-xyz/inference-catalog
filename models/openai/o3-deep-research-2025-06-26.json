@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/o3-deep-research-2025-06-26",
+  "name": "o3-deep-research-2025-06-26",
+  "creator": "openai",
+  "kind": "chat",
+  "revision": "o3-deep-research-2025-06-26",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/openai"
+}

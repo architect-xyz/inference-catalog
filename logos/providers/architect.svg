@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img">
+  <title>Architect</title>
+  <!-- Drawn to survive a circular crop: the badge on a model mark clips this
+       square to its inscribed circle, so every stroke stays within r=44 of
+       centre. Replace this file with the real asset, keeping that in mind.
+
+       No background: the mark sits on the white plate every logo is drawn on,
+       so a provider reads the same way as a model creator beside it. A file
+       that paints its own background hides that plate. -->
+  <path d="M27 26 L52 50 L27 74" fill="none" stroke="#000000" stroke-width="12"
+        stroke-linecap="butt" stroke-linejoin="miter"/>
+  <rect x="55" y="62" width="26" height="12" fill="#000000"/>
+</svg>

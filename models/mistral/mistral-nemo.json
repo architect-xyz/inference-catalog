@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/mistral-nemo",
+  "name": "mistral-nemo",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [
+    "mistralai/mistral-nemo-instruct-2407"
+  ],
+  "parameters": {
+    "total": 12247782400,
+    "active": 12247782400
+  },
+  "logo": "icons/mistral"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "inference-catalog",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Logos and metadata of the products and services in the inference market.",
+  "type": "module",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "index": "node scripts/build-index.mjs",
+    "build": "npm run validate && npm run index && npm run build -w packages/react",
+    "test": "npm run validate && npm test -w packages/react"
+  },
+  "devDependencies": {
+    "ajv": "8.17.1"
+  }
+}

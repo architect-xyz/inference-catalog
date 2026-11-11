@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "xai/grok-3-mini-beta",
+  "name": "grok-3-mini-beta",
+  "creator": "xai",
+  "kind": "chat",
+  "revision": "grok-3-mini-beta",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/grok"
+}

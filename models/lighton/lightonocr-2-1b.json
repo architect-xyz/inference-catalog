@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "lighton/lightonocr-2-1b",
+  "name": "lightonocr-2-1b",
+  "creator": "lighton",
+  "kind": "chat",
+  "revision": "lightonocr-2-1b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

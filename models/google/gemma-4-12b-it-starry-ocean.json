@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-12b-it-starry-ocean",
+  "name": "gemma-4-12b-it-starry-ocean",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-12b-it-starry-ocean",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen2.5-coder-3b-instruct",
+  "name": "qwen2.5-coder-3b-instruct",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen2.5-coder-3b-instruct",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/voxtral-small-24b-2507",
+  "name": "voxtral-small-24b-2507",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 24261800960,
+    "active": 24261800960
+  },
+  "logo": "icons/mistral"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+  "name": "llama-4-maverick-17b-128e-instruct-fp8",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "llama-4-maverick-17b-128e-instruct-fp8",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

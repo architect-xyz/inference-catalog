@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/cogview-4",
+  "name": "cogview-4",
+  "creator": "zhipuai",
+  "kind": "image_generation",
+  "revision": "cogview-4",
+  "status": "APPROVED",
+  "aliases": [
+    "zhipu/cogview-4"
+  ],
+  "logo": "icons/zhipu"
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "minimax/MiniMax-M3.1-Flash",
+  "name": "MiniMax-M3.1-Flash",
+  "creator": "minimax",
+  "kind": "chat",
+  "revision": "MiniMax-M3.1-Flash",
+  "status": "APPROVED",
+  "aliases": [
+    "minimax-m3.1-flash",
+    "minimax/minimax-m3.1-flash"
+  ],
+  "logo": "icons/minimax"
+}

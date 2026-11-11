@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/schattenblume-31b",
+  "name": "schattenblume-31b",
+  "creator": "google",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "allenai/olmocr-7b-0725-fp8",
+  "name": "olmocr-7b-0725-fp8",
+  "creator": "allenai",
+  "kind": "chat",
+  "revision": "olmocr-7b-0725-fp8",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/ai2"
+}

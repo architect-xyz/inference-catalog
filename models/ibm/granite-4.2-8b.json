@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "ibm/granite-4.2-8b",
+  "name": "granite-4.2-8b",
+  "creator": "ibm",
+  "kind": "chat",
+  "revision": "granite-4.2-8b",
+  "status": "APPROVED",
+  "aliases": [
+    "ibm-granite/granite-4.2-8b"
+  ],
+  "parameters": {
+    "total": 8791592960,
+    "active": 8791592960
+  },
+  "logo": "icons/ibm"
+}

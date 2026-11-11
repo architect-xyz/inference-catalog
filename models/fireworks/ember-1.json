@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "fireworks/ember-1",
+  "name": "ember-1",
+  "creator": "fireworks",
+  "kind": "chat",
+  "revision": "ember-1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/fireworks"
+}

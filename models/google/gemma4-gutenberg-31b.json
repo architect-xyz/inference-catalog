@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma4-gutenberg-31b",
+  "name": "gemma4-gutenberg-31b",
+  "creator": "google",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

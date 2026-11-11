@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nanogpt/claw-medium",
+  "name": "claw-medium",
+  "creator": "nanogpt",
+  "kind": "chat",
+  "revision": "claw-medium",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

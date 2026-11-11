@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/ministral-8b-2512",
+  "name": "ministral-8b-2512",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "ministral-8b-2512",
+  "status": "APPROVED",
+  "aliases": [
+    "mistralai/ministral-8b-2512"
+  ],
+  "parameters": {
+    "total": 8918026240,
+    "active": 8918026240
+  },
+  "logo": "icons/mistral"
+}

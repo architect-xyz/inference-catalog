@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "soob3123/grayline-qwen3-8b",
+  "name": "grayline-qwen3-8b",
+  "creator": "soob3123",
+  "kind": "chat",
+  "revision": "grayline-qwen3-8b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/mistral-small-4-119b-2603:thinking",
+  "name": "mistral-small-4-119b-2603:thinking",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "mistral-small-4-119b-2603:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

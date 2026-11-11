@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/l3.1-70b-hanami-x1",
+  "name": "l3.1-70b-hanami-x1",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "l3.1-70b-hanami-x1",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

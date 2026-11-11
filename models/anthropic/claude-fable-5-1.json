@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "anthropic/claude-fable-5-1",
+  "name": "claude-fable-5-1",
+  "creator": "anthropic",
+  "kind": "chat",
+  "revision": "claude-fable-5.1",
+  "status": "APPROVED",
+  "aliases": [
+    "claude-fable-5.1"
+  ],
+  "logo": "icons/claude"
+}

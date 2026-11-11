@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "deepgram",
+  "name": "Deepgram",
+  "aliases": [],
+  "logo": null
+}

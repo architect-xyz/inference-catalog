@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/autoglm-phone-9b-multilingual",
+  "name": "autoglm-phone-9b-multilingual",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "autoglm-phone-9b-multilingual",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 934400,
+    "active": 934400
+  },
+  "logo": "icons/zhipu"
+}

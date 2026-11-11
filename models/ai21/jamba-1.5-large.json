@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "ai21/jamba-1.5-large",
+  "name": "jamba-1.5-large",
+  "creator": "ai21",
+  "kind": "chat",
+  "revision": "jamba-1.5-large",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/ai21"
+}

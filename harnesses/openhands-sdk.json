@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "openhands-sdk",
+  "name": "OpenHands SDK",
+  "description": "A Python agent with local file and shell tools.",
+  "logo": "harnesses/openhands"
+}

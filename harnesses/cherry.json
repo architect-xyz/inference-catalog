@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "cherry",
+  "name": "Cherry Studio",
+  "description": "A desktop chat client.",
+  "logo": "harnesses/cherrystudio"
+}

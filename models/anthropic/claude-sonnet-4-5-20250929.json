@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "anthropic/claude-sonnet-4-5-20250929",
+  "name": "claude-sonnet-4-5-20250929",
+  "creator": "anthropic",
+  "kind": "chat",
+  "revision": "claude-sonnet-4.5-20250929",
+  "status": "APPROVED",
+  "aliases": [
+    "claude-sonnet-4.5-20250929"
+  ],
+  "logo": "icons/claude"
+}

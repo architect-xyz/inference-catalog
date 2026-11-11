@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/orion-26b-a4b-v1.1",
+  "name": "orion-26b-a4b-v1.1",
+  "creator": "google",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

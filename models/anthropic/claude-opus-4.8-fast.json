@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "anthropic/claude-opus-4.8-fast",
+  "name": "claude-opus-4.8-fast",
+  "creator": "anthropic",
+  "kind": "chat",
+  "revision": "claude-opus-4.8-fast",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/claude"
+}

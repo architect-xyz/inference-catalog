@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "kotoba-technologies/speech-to-text",
+  "name": "speech-to-text",
+  "creator": "kotoba-technologies",
+  "kind": "audio_transcription",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

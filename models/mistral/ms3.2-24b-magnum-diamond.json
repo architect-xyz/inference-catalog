@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/ms3.2-24b-magnum-diamond",
+  "name": "ms3.2-24b-magnum-diamond",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "ms3.2-24b-magnum-diamond",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

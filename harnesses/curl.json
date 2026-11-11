@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "curl",
+  "name": "curl",
+  "description": "A single test request from the command line.",
+  "logo": "harnesses/curl"
+}

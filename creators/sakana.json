@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "sakana",
+  "name": "Sakana AI",
+  "aliases": [],
+  "logo": "icons/sakana"
+}

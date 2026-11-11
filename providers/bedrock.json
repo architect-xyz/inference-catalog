@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "bedrock",
+  "name": "Amazon Bedrock",
+  "description": "Claude, Llama, Mistral, Nova and more, billed by AWS",
+  "type": "cloud-platform",
+  "logo": "providers/bedrock"
+}

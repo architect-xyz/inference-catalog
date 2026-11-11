@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "nvidia/nemotron-3-super-120b-a12b:thinking",
+  "name": "nemotron-3-super-120b-a12b:thinking",
+  "creator": "nvidia",
+  "kind": "chat",
+  "revision": "nemotron-3-super-120b-a12b:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 123611012096,
+    "active": 12000000000
+  },
+  "logo": "icons/nvidia"
+}

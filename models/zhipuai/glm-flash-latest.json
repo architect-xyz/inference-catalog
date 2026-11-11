@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "zhipuai/glm-flash-latest",
+  "name": "glm-flash-latest",
+  "creator": "zhipuai",
+  "kind": "chat",
+  "revision": "glm-flash-latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/zhipu"
+}

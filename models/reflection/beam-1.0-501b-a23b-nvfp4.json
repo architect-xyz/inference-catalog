@@ -1,0 +1,10 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "reflection/beam-1.0-501b-a23b-nvfp4",
+  "name": "beam-1.0-501b-a23b-nvfp4",
+  "creator": "reflection",
+  "kind": "chat",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

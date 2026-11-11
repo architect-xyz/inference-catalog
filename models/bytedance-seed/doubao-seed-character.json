@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "bytedance-seed/doubao-seed-character",
+  "name": "doubao-seed-character",
+  "creator": "bytedance-seed",
+  "kind": "chat",
+  "revision": "doubao-seed-character",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/bytedance"
+}

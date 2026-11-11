@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "mcp",
+  "name": "MCP",
+  "description": "Any model on the exchange, with the tools of an MCP server.",
+  "logo": "harnesses/mcp"
+}

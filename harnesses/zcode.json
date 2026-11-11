@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "zcode",
+  "name": "Z Code",
+  "description": "The Z.ai desktop coding agent, with a custom provider.",
+  "logo": "harnesses/zcode"
+}

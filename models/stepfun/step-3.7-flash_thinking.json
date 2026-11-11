@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "stepfun/step-3.7-flash:thinking",
+  "name": "step-3.7-flash:thinking",
+  "creator": "stepfun",
+  "kind": "chat",
+  "revision": "step-3.7-flash:thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 201365316160,
+    "active": 201365316160
+  },
+  "logo": "icons/stepfun"
+}

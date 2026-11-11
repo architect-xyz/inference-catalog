@@ -1,0 +1,17 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.8-flash-next",
+  "name": "qwen3.8-flash-next",
+  "creator": "alibaba",
+  "kind": "chat",
+  "base_model": "Qwen/Qwen3.8-Flash-Next",
+  "status": "APPROVED",
+  "aliases": [
+    "qwen/qwen3.8-flash-next"
+  ],
+  "parameters": {
+    "total": 179999981459,
+    "active": 61563322259
+  },
+  "logo": "icons/qwen"
+}

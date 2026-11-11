@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "stabilityai/stable-image-ultra",
+  "name": "stable-image-ultra",
+  "creator": "stabilityai",
+  "kind": "image_generation",
+  "revision": "stable-image-ultra",
+  "status": "APPROVED",
+  "aliases": [
+    "stabilityai/stable-image-ultra"
+  ],
+  "logo": "icons/stability"
+}

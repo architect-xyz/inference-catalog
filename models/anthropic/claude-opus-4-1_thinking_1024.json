@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "anthropic/claude-opus-4-1:thinking:1024",
+  "name": "claude-opus-4-1:thinking:1024",
+  "creator": "anthropic",
+  "kind": "chat",
+  "revision": "claude-opus-4.1:thinking:1024",
+  "status": "APPROVED",
+  "aliases": [
+    "claude-opus-4.1:thinking:1024"
+  ],
+  "logo": "icons/claude"
+}

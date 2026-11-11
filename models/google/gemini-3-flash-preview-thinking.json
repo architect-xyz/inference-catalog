@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemini-3-flash-preview-thinking",
+  "name": "gemini-3-flash-preview-thinking",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemini-3-flash-preview-thinking",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemini"
+}

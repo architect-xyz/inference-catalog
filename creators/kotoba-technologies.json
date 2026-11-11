@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/creator.schema.json",
+  "id": "kotoba-technologies",
+  "name": "Kotoba-technologies",
+  "aliases": [],
+  "logo": null
+}

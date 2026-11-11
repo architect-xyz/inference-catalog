@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "sao10k/l3.3-euryale-70b",
+  "name": "l3.3-euryale-70b",
+  "creator": "sao10k",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/sao10k"
+}

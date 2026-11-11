@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "deepseek/deepseek-r1-sambanova",
+  "name": "deepseek-r1-sambanova",
+  "creator": "deepseek",
+  "kind": "chat",
+  "revision": "deepseek-r1-sambanova",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/deepseek"
+}

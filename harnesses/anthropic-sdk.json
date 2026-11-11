@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "anthropic-sdk",
+  "name": "Anthropic SDK",
+  "description": "The official Python and TypeScript clients, unmodified.",
+  "logo": "harnesses/anthropic"
+}

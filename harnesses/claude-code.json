@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "claude-code",
+  "name": "Claude Code",
+  "description": "Anthropic's terminal agent.",
+  "logo": "harnesses/claudecode"
+}

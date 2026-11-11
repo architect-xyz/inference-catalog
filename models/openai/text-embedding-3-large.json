@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "openai/text-embedding-3-large",
+  "name": "text-embedding-3-large",
+  "creator": "openai",
+  "kind": "embedding",
+  "revision": "text-embedding-3-large",
+  "status": "APPROVED",
+  "aliases": [
+    "openai/text-embedding-3-large"
+  ],
+  "logo": "icons/openai"
+}

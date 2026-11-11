@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "mistral/devstral-2-123b-instruct-2512",
+  "name": "devstral-2-123b-instruct-2512",
+  "creator": "mistral",
+  "kind": "chat",
+  "revision": "devstral-2-123b-instruct-2512",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/mistral"
+}

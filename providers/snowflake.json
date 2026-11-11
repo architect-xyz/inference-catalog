@@ -1,0 +1,8 @@
+{
+  "$schema": "../schemas/provider.schema.json",
+  "id": "snowflake",
+  "name": "Snowflake Cortex",
+  "description": "Models run inside your Snowflake account",
+  "type": "cloud-platform",
+  "logo": "providers/snowflake"
+}

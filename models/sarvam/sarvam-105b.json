@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "sarvam/sarvam-105b",
+  "name": "sarvam-105b",
+  "creator": "sarvam",
+  "kind": "chat",
+  "revision": "sarvam-105b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/sarvam"
+}

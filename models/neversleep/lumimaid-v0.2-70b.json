@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "neversleep/lumimaid-v0.2-70b",
+  "name": "lumimaid-v0.2-70b",
+  "creator": "neversleep",
+  "kind": "chat",
+  "revision": "lumimaid-v0.2-70b",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/huggingface"
+}

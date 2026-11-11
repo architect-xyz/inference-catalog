@@ -1,0 +1,13 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen-image-max",
+  "name": "qwen-image-max",
+  "creator": "alibaba",
+  "kind": "image_generation",
+  "revision": "qwen-image-max",
+  "status": "APPROVED",
+  "aliases": [
+    "alibaba/qwen-image-max"
+  ],
+  "logo": "icons/qwen"
+}

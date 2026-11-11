@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "google/gemma-4-31b-it-novelist",
+  "name": "gemma-4-31b-it-novelist",
+  "creator": "google",
+  "kind": "chat",
+  "revision": "gemma-4-31b-it-novelist",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/gemma"
+}

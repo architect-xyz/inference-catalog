@@ -1,0 +1,15 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.8-2.4t-a95b",
+  "name": "qwen3.8-2.4t-a95b",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3.8-2.4t-a95b",
+  "status": "APPROVED",
+  "aliases": [],
+  "parameters": {
+    "total": 2446182725504,
+    "active": 95000000000
+  },
+  "logo": "icons/qwen"
+}

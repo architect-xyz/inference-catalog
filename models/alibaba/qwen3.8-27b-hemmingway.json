@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "alibaba/qwen3.8-27b-hemmingway",
+  "name": "qwen3.8-27b-hemmingway",
+  "creator": "alibaba",
+  "kind": "chat",
+  "revision": "qwen3.8-27b-hemmingway",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/qwen"
+}

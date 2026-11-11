@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/model.schema.json",
+  "id": "meta/neuraldaredevil-8b-abliterated",
+  "name": "neuraldaredevil-8b-abliterated",
+  "creator": "meta",
+  "kind": "chat",
+  "revision": "latest",
+  "status": "APPROVED",
+  "aliases": [],
+  "logo": "icons/llama"
+}

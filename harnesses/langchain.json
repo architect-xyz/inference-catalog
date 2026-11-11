@@ -1,0 +1,7 @@
+{
+  "$schema": "../schemas/harness.schema.json",
+  "id": "langchain",
+  "name": "LangChain",
+  "description": "Through its OpenAI chat model.",
+  "logo": "harnesses/langchain"
+}
